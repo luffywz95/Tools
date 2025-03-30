@@ -1,0 +1,927 @@
+﻿    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_StaffID</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_StaffID</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE STAFF ID</LanguageENG>
+        <LanguageCGB>截至日期雇员编号</LanguageCGB>
+        <LanguageCB5>截至日期僱員編號</LanguageCB5>
+        <LanguageVET>截至日期員工編號</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_EffectiveDate</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_EffectiveDate</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Effective Date</LanguageENG>
+        <LanguageCGB>截至日期生效日期</LanguageCGB>
+        <LanguageCB5>截至日期生效日期</LanguageCB5>
+        <LanguageVET>截至日期生效日期</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>date</ColumnDataType>
+      <Date>
+        <DateInterval>Date</DateInterval>
+        <Visible>False</Visible>
+      </Date>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_ExpiryDate</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_ExpiryDate</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE EXPIRY DATE</LanguageENG>
+        <LanguageCGB>截至日期终止日期</LanguageCGB>
+        <LanguageCB5>截至日期終止日期</LanguageCB5>
+        <LanguageVET>截至日期終止日期</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>date</ColumnDataType>
+      <Date>
+        <DateInterval>Date</DateInterval>
+        <Visible>False</Visible>
+      </Date>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_MainTaxPolicy</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_MainTaxPolicy</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE MAIN TAXATION POLICY</LanguageENG>
+        <LanguageCGB>截至日期主要税务政策</LanguageCGB>
+        <LanguageCB5>截至日期主要稅務政策</LanguageCB5>
+        <LanguageVET>截至日期主要稅務政策</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_RentalReimburseEnabled</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_RentalReimburseEnabled</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE RENTAL REIMBURSEMENT ENABLED</LanguageENG>
+        <LanguageCGB>截至日期租金报销啓用</LanguageCGB>
+        <LanguageCB5>截至日期租金報銷啓用</LanguageCB5>
+        <LanguageVET>截至日期租金報銷啓用</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_SecondPolicy</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_SecondPolicy</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Secondary Policy</LanguageENG>
+        <LanguageCGB>截至日期Secondary Policy</LanguageCGB>
+        <LanguageCB5>截至日期Secondary Policy</LanguageCB5>
+        <LanguageVET>截至日期Secondary Policy</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_TaxLocation</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_TaxLocation</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE TAXATION LOCATION</LanguageENG>
+        <LanguageCGB>截至日期税务地点</LanguageCGB>
+        <LanguageCB5>截至日期稅務地點</LanguageCB5>
+        <LanguageVET>截至日期稅務地點</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_PTaxSettings</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_PTaxSettings</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE PRC Tax Settings Accordance</LanguageENG>
+        <LanguageCGB>截至日期PRC Tax Settings Accordance</LanguageCGB>
+        <LanguageCB5>截至日期PRC Tax Settings Accordance</LanguageCB5>
+        <LanguageVET>截至日期PRC Tax Settings Accordance</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_PTaxGroup</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_PTaxGroup</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE PRC TAXATION GROUP</LanguageENG>
+        <LanguageCGB>截至日期中国税务组别</LanguageCGB>
+        <LanguageCB5>截至日期中國稅務組別</LanguageCB5>
+        <LanguageVET>截至日期中國稅務組別</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_TaxAreaCode</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_TaxAreaCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE PRC Tax Area</LanguageENG>
+        <LanguageCGB>截至日期PRC Tax Area</LanguageCGB>
+        <LanguageCB5>截至日期PRC Tax Area</LanguageCB5>
+        <LanguageVET>截至日期PRC Tax Area</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_EmploymentStartDate</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_EmploymentStartDate</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE EMPLOYMENT START DATE</LanguageENG>
+        <LanguageCGB>截至日期入职日期</LanguageCGB>
+        <LanguageCB5>截至日期入職日期</LanguageCB5>
+        <LanguageVET>截至日期入職日期</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>date</ColumnDataType>
+      <Date>
+        <DateInterval>Date</DateInterval>
+        <Visible>False</Visible>
+      </Date>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_NonResident</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_NonResident</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE NON RESIDENT</LanguageENG>
+        <LanguageCGB>截至日期非居民</LanguageCGB>
+        <LanguageCB5>截至日期非居民</LanguageCB5>
+        <LanguageVET>截至日期非居民</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_MTaxRateTable</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_MTaxRateTable</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE MACAU TAX RATE TABLE</LanguageENG>
+        <LanguageCGB>截至日期澳门税率表</LanguageCGB>
+        <LanguageCB5>截至日期澳門稅率表</LanguageCB5>
+        <LanguageVET>截至日期澳門稅率表</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_MTaxGroup</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_MTaxGroup</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Macau Taxation Group</LanguageENG>
+        <LanguageCGB>截至日期Macau Taxation Group</LanguageCGB>
+        <LanguageCB5>截至日期Macau Taxation Group</LanguageCB5>
+        <LanguageVET>截至日期Macau Taxation Group</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_MTaxFSSNo</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_MTaxFSSNo</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Macau FSS Number</LanguageENG>
+        <LanguageCGB>截至日期Macau FSS Number</LanguageCGB>
+        <LanguageCB5>截至日期Macau FSS Number</LanguageCB5>
+        <LanguageVET>截至日期Macau FSS Number</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_MTaxNo</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_MTaxNo</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Macau Tax Number</LanguageENG>
+        <LanguageCGB>截至日期Macau Tax Number</LanguageCGB>
+        <LanguageCB5>截至日期Macau Tax Number</LanguageCB5>
+        <LanguageVET>截至日期Macau Tax Number</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_MStaffType</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_MStaffType</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Macau Staff Type</LanguageENG>
+        <LanguageCGB>截至日期Macau Staff Type</LanguageCGB>
+        <LanguageCB5>截至日期Macau Staff Type</LanguageCB5>
+        <LanguageVET>截至日期Macau Staff Type</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_Is36Policy</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_Is36Policy</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Is 36 Policy</LanguageENG>
+        <LanguageCGB>截至日期Is 36 Policy</LanguageCGB>
+        <LanguageCB5>截至日期Is 36 Policy</LanguageCB5>
+        <LanguageVET>截至日期Is 36 Policy</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_TaxFileNo</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_TaxFileNo</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE TAX FILE NUMBER</LanguageENG>
+        <LanguageCGB>截至日期税务档案号码</LanguageCGB>
+        <LanguageCB5>截至日期稅務檔案號碼</LanguageCB5>
+        <LanguageVET>截至日期稅務檔案號碼</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_GenIRTaxM</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_GenIRTaxM</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Gen. IRTaxM Form</LanguageENG>
+        <LanguageCGB>截至日期Gen. IRTaxM Form</LanguageCGB>
+        <LanguageCB5>截至日期Gen. IRTaxM Form</LanguageCB5>
+        <LanguageVET>截至日期Gen. IRTaxM Form</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YTaxRefNum</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YTaxRefNum</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE TAX REFERENCE NO.</LanguageENG>
+        <LanguageCGB>截至日期税务参考编号</LanguageCGB>
+        <LanguageCB5>截至日期稅務參考編號</LanguageCB5>
+        <LanguageVET>截至日期稅務參考編號</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YIsResident</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YIsResident</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE IS RESIDENT</LanguageENG>
+        <LanguageCGB>截至日期是居民</LanguageCGB>
+        <LanguageCB5>截至日期是居民</LanguageCB5>
+        <LanguageVET>截至日期是居民</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YIsDisabled</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YIsDisabled</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE IS DISABLED</LanguageENG>
+        <LanguageCGB>截至日期是否有残疾？</LanguageCGB>
+        <LanguageCB5>截至日期是否有殘疾？</LanguageCB5>
+        <LanguageVET>截至日期是否有身心障礙？</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YIsMarried</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YIsMarried</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE IS MARRIED</LanguageENG>
+        <LanguageCGB>截至日期是否婚配</LanguageCGB>
+        <LanguageCB5>截至日期是否婚配</LanguageCB5>
+        <LanguageVET>截至日期是否婚配</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YIsSpouseWorking</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YIsSpouseWorking</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE IS SPOUSE WORKING</LanguageENG>
+        <LanguageCGB>截至日期配偶是否工作？</LanguageCGB>
+        <LanguageCB5>截至日期配偶是否工作？</LanguageCB5>
+        <LanguageVET>截至日期配偶是否工作？</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YIsSpouseDisabled</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YIsSpouseDisabled</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE IS SPOUSE DISABLED</LanguageENG>
+        <LanguageCGB>截至日期配偶是否残疾？</LanguageCGB>
+        <LanguageCB5>截至日期配偶是否殘疾？</LanguageCB5>
+        <LanguageVET>截至日期配偶是否身心障礙？</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YIncludeBIK</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YIncludeBIK</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE INCLUDE BIK</LanguageENG>
+        <LanguageCGB>截至日期纳入BIK</LanguageCGB>
+        <LanguageCB5>截至日期納入BIK</LanguageCB5>
+        <LanguageVET>截至日期納入BIK</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YIncludeVOLA</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YIncludeVOLA</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE INCLUDE VOLA</LanguageENG>
+        <LanguageCGB>截至日期纳入VOLA</LanguageCGB>
+        <LanguageCB5>截至日期納入VOLA</LanguageCB5>
+        <LanguageVET>截至日期納入VOLA</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YChildUnder18</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YChildUnder18</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Child no. (Under 18)</LanguageENG>
+        <LanguageCGB>截至日期Child no. (Under 18)</LanguageCGB>
+        <LanguageCB5>截至日期Child no. (Under 18)</LanguageCB5>
+        <LanguageVET>截至日期Child no. (Under 18)</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0.00</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YChildDiploma</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YChildDiploma</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Child no. (Diploma)</LanguageENG>
+        <LanguageCGB>截至日期Child no. (Diploma)</LanguageCGB>
+        <LanguageCB5>截至日期Child no. (Diploma)</LanguageCB5>
+        <LanguageVET>截至日期Child no. (Diploma)</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0.00</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YChildDegree</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YChildDegree</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Child no. (Degree)</LanguageENG>
+        <LanguageCGB>截至日期Child no. (Degree)</LanguageCGB>
+        <LanguageCB5>截至日期Child no. (Degree)</LanguageCB5>
+        <LanguageVET>截至日期Child no. (Degree)</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0.00</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YChildDisabled</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YChildDisabled</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Child no. (Disabled)</LanguageENG>
+        <LanguageCGB>截至日期Child no. (Disabled)</LanguageCGB>
+        <LanguageCB5>截至日期Child no. (Disabled)</LanguageCB5>
+        <LanguageVET>截至日期Child no. (Disabled)</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0.00</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YChildEduDisabled</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YChildEduDisabled</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Child no. (Educated Disabled)</LanguageENG>
+        <LanguageCGB>截至日期Child no. (Educated Disabled)</LanguageCGB>
+        <LanguageCB5>截至日期Child no. (Educated Disabled)</LanguageCB5>
+        <LanguageVET>截至日期Child no. (Educated Disabled)</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0.00</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YPrevNetIncome</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YPrevNetIncome</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Previous Net Income</LanguageENG>
+        <LanguageCGB>截至日期Previous Net Income</LanguageCGB>
+        <LanguageCB5>截至日期Previous Net Income</LanguageCB5>
+        <LanguageVET>截至日期Previous Net Income</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>#,###,###,##0.00</NumFormat>
+      <NumFrontDec>10</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YTotalEPFCont</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YTotalEPFCont</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Total EPF</LanguageENG>
+        <LanguageCGB>截至日期Total EPF</LanguageCGB>
+        <LanguageCB5>截至日期Total EPF</LanguageCB5>
+        <LanguageVET>截至日期Total EPF</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>#,###,###,##0.00</NumFormat>
+      <NumFrontDec>10</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YTotalAnnuity</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YTotalAnnuity</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Total Annuity</LanguageENG>
+        <LanguageCGB>截至日期Total Annuity</LanguageCGB>
+        <LanguageCB5>截至日期Total Annuity</LanguageCB5>
+        <LanguageVET>截至日期Total Annuity</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>#,###,###,##0.00</NumFormat>
+      <NumFrontDec>10</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YAccumDeduction</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YAccumDeduction</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Accumulated Deduction</LanguageENG>
+        <LanguageCGB>截至日期Accumulated Deduction</LanguageCGB>
+        <LanguageCB5>截至日期Accumulated Deduction</LanguageCB5>
+        <LanguageVET>截至日期Accumulated Deduction</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>#,###,###,##0.00</NumFormat>
+      <NumFrontDec>10</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YAccumSTD</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YAccumSTD</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE ACCUMULATED STD</LanguageENG>
+        <LanguageCGB>截至日期累计STD</LanguageCGB>
+        <LanguageCB5>截至日期累計STD</LanguageCB5>
+        <LanguageVET>截至日期累計STD</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>#,###,###,##0.00</NumFormat>
+      <NumFrontDec>10</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_YAccumZakatFees</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_YAccumZakatFees</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Accumulated Zakat/Fees</LanguageENG>
+        <LanguageCGB>截至日期Accumulated Zakat/Fees</LanguageCGB>
+        <LanguageCB5>截至日期Accumulated Zakat/Fees</LanguageCB5>
+        <LanguageVET>截至日期Accumulated Zakat/Fees</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>#,###,###,##0.00</NumFormat>
+      <NumFrontDec>10</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_TwDepNum</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_TwDepNum</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Dependants Num</LanguageENG>
+        <LanguageCGB>截至日期家属人数</LanguageCGB>
+        <LanguageCB5>截至日期家屬人數</LanguageCB5>
+        <LanguageVET>截至日期家屬人數</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>0</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_TwIsForeigner</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_TwIsForeigner</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Is Foreigner?</LanguageENG>
+        <LanguageCGB>截至日期外籍雇员</LanguageCGB>
+        <LanguageCB5>截至日期外籍僱員</LanguageCB5>
+        <LanguageVET>截至日期外籍員工</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_TwDayinLocal</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_TwDayinLocal</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Commit the No. of Days in Local?</LanguageENG>
+        <LanguageCGB>截至日期已达183天</LanguageCGB>
+        <LanguageCB5>截至日期已達183天</LanguageCB5>
+        <LanguageVET>截至日期已達183天</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_TwTaxMethodMth</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_TwTaxMethodMth</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Tax Method of Monthly Income</LanguageENG>
+        <LanguageCGB>截至日期月收入计税方法</LanguageCGB>
+        <LanguageCB5>截至日期月收入計稅方法</LanguageCB5>
+        <LanguageVET>截至日期月所得扣繳稅款方式</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_TaxByER</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_TaxByER</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Tax by ER?</LanguageENG>
+        <LanguageCGB>截至日期雇主代缴税</LanguageCGB>
+        <LanguageCB5>截至日期僱主代繳稅</LanguageCB5>
+        <LanguageVET>截至日期僱主代扣稅款</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_ExemptTwScheme</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_ExemptTwScheme</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Exempt from TW Tax Scheme</LanguageENG>
+        <LanguageCGB>截至日期豁免台湾个税</LanguageCGB>
+        <LanguageCB5>截至日期豁免臺灣個稅</LanguageCB5>
+        <LanguageVET>截至日期豁免臺灣個稅</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_TwIsMthSelfRate</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_TwIsMthSelfRate</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE IS MONTH SELF RATE</LanguageENG>
+        <LanguageCGB>截至日期自订的每月收入税率</LanguageCGB>
+        <LanguageCB5>截至日期自訂的每月收入稅率</LanguageCB5>
+        <LanguageVET>截至日期自訂的每月收入稅率</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_TwMthSelfRate</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_TwMthSelfRate</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE MONTH SELF RATE</LanguageENG>
+        <LanguageCGB>截至日期自订每月收入税率</LanguageCGB>
+        <LanguageCB5>截至日期自訂每月收入稅率</LanguageCB5>
+        <LanguageVET>截至日期自訂每月收入稅率</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0.00</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_TwIsNMthSelfRate</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_TwIsNMthSelfRate</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE IS NON MONTH SELF RATE</LanguageENG>
+        <LanguageCGB>截至日期自订的非每月收入税率</LanguageCGB>
+        <LanguageCB5>截至日期自訂的非每月收入稅率</LanguageCB5>
+        <LanguageVET>截至日期自訂的非每月收入稅率</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_TwNMthSelfRate</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_TwNMthSelfRate</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE NON MONTH SELF RATE</LanguageENG>
+        <LanguageCGB>截至日期自订非每月收入税率</LanguageCGB>
+        <LanguageCB5>截至日期自訂非每月收入稅率</LanguageCB5>
+        <LanguageVET>截至日期自訂非每月收入稅率</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0.00</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_ExemptTwEWC</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_ExemptTwEWC</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Exempt from EWC</LanguageENG>
+        <LanguageCGB>截至日期豁免EWC款项</LanguageCGB>
+        <LanguageCB5>截至日期豁免EWC款項</LanguageCB5>
+        <LanguageVET>截至日期豁免EWC款項</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_HKIDCode</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_HKIDCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE HKID CODE</LanguageENG>
+        <LanguageCGB>截至日期香港身份证编号</LanguageCGB>
+        <LanguageCB5>截至日期香港身份證編號</LanguageCB5>
+        <LanguageVET>截至日期香港身分證編號</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_PassportCode</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_PassportCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE PASSPORT CODE</LanguageENG>
+        <LanguageCGB>截至日期护照编号</LanguageCGB>
+        <LanguageCB5>截至日期護照編號</LanguageCB5>
+        <LanguageVET>截至日期護照編號</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_ResTypeCode</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_ResTypeCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Residential Addr. Type</LanguageENG>
+        <LanguageCGB>截至日期Residential Addr. Type</LanguageCGB>
+        <LanguageCB5>截至日期Residential Addr. Type</LanguageCB5>
+        <LanguageVET>截至日期Residential Addr. Type</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_CorrTypeCode</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_CorrTypeCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Correspondence Addr. Type</LanguageENG>
+        <LanguageCGB>截至日期Correspondence Addr. Type</LanguageCGB>
+        <LanguageCB5>截至日期Correspondence Addr. Type</LanguageCB5>
+        <LanguageVET>截至日期Correspondence Addr. Type</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_CResTypeCode</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_CResTypeCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Chinese Residential Addr. Type</LanguageENG>
+        <LanguageCGB>截至日期Chinese Residential Addr. Type</LanguageCGB>
+        <LanguageCB5>截至日期Chinese Residential Addr. Type</LanguageCB5>
+        <LanguageVET>截至日期Chinese Residential Addr. Type</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_CCorrTypeCode</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_CCorrTypeCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Chinese Correspondence Addr. Type</LanguageENG>
+        <LanguageCGB>截至日期Chinese Correspondence Addr. Type</LanguageCGB>
+        <LanguageCB5>截至日期Chinese Correspondence Addr. Type</LanguageCB5>
+        <LanguageVET>截至日期Chinese Correspondence Addr. Type</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_ContactNumType</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_ContactNumType</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE CONTACT NUMBER TYPE</LanguageENG>
+        <LanguageCGB>截至日期联络号码类型</LanguageCGB>
+        <LanguageCB5>截至日期聯絡號碼類型</LanguageCB5>
+        <LanguageVET>截至日期聯絡號碼類型</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_SpouseCode1</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_SpouseCode1</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Spouse Code 1</LanguageENG>
+        <LanguageCGB>截至日期Spouse Code 1</LanguageCGB>
+        <LanguageCB5>截至日期Spouse Code 1</LanguageCB5>
+        <LanguageVET>截至日期Spouse Code 1</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_SpouseCode2</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_SpouseCode2</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Spouse Code 2</LanguageENG>
+        <LanguageCGB>截至日期Spouse Code 2</LanguageCGB>
+        <LanguageCB5>截至日期Spouse Code 2</LanguageCB5>
+        <LanguageVET>截至日期Spouse Code 2</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_SpouseCode3</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_SpouseCode3</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Spouse Code 3</LanguageENG>
+        <LanguageCGB>截至日期Spouse Code 3</LanguageCGB>
+        <LanguageCB5>截至日期Spouse Code 3</LanguageCB5>
+        <LanguageVET>截至日期Spouse Code 3</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_SpouseCode4</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_SpouseCode4</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Spouse Code 4</LanguageENG>
+        <LanguageCGB>截至日期Spouse Code 4</LanguageCGB>
+        <LanguageCB5>截至日期Spouse Code 4</LanguageCB5>
+        <LanguageVET>截至日期Spouse Code 4</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_HKCode</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_HKCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Hong Kong Code</LanguageENG>
+        <LanguageCGB>截至日期Hong Kong Code</LanguageCGB>
+        <LanguageCB5>截至日期Hong Kong Code</LanguageCB5>
+        <LanguageVET>截至日期Hong Kong Code</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_KLNCode</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_KLNCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Kowloon Code</LanguageENG>
+        <LanguageCGB>截至日期Kowloon Code</LanguageCGB>
+        <LanguageCB5>截至日期Kowloon Code</LanguageCB5>
+        <LanguageVET>截至日期Kowloon Code</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_NTCode</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_NTCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE NT Code</LanguageENG>
+        <LanguageCGB>截至日期NT Code</LanguageCGB>
+        <LanguageCB5>截至日期NT Code</LanguageCB5>
+        <LanguageVET>截至日期NT Code</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>AsAtDate_StaffTaxPlc_FNCode</DataName>
+      <ColumnName>AsAtDate_StaffTaxPlc_FNCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ASATDATE Foreign Code</LanguageENG>
+        <LanguageCGB>截至日期Foreign Code</LanguageCGB>
+        <LanguageCB5>截至日期Foreign Code</LanguageCB5>
+        <LanguageVET>截至日期Foreign Code</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>

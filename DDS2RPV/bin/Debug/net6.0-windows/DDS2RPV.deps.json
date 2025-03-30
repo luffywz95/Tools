@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DDS2RPV/1.0.0": {
+        "dependencies": {
+          "SpreadsheetGear2023": "9.2.44.102"
+        },
+        "runtime": {
+          "DDS2RPV.dll": {}
+        }
+      },
+      "SpreadsheetGear2023/9.2.44.102": {
+        "runtime": {
+          "SpreadsheetGear2023.dll": {
+            "assemblyVersion": "9.2.44.102",
+            "fileVersion": "9.2.44.102"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDS2RPV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpreadsheetGear2023/9.2.44.102": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

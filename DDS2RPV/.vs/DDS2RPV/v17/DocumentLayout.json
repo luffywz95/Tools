@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u9081\u79BF\\DDS2RPV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D84A06B-FDF1-402B-A178-D7898D1B57B8}|DDS2RPV.csproj|c:\\\u9081\u79BF\\dds2rpv\\dds2rpvhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D84A06B-FDF1-402B-A178-D7898D1B57B8}|DDS2RPV.csproj|solutionrelative:dds2rpvhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D84A06B-FDF1-402B-A178-D7898D1B57B8}|DDS2RPV.csproj|c:\\\u9081\u79BF\\dds2rpv\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D84A06B-FDF1-402B-A178-D7898D1B57B8}|DDS2RPV.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D84A06B-FDF1-402B-A178-D7898D1B57B8}|DDS2RPV.csproj|c:\\\u9081\u79BF\\dds2rpv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D84A06B-FDF1-402B-A178-D7898D1B57B8}|DDS2RPV.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sam.Leung\\AppData\\Local\\SourceServer\\60546032f23b31a03685e30ef880f5c48e6df2d00a71d09e625da4e2a208bd88\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D84A06B-FDF1-402B-A178-D7898D1B57B8}|DDS2RPV.csproj|c:\\\u9081\u79BF\\dds2rpv\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7D84A06B-FDF1-402B-A178-D7898D1B57B8}|DDS2RPV.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 295,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u9081\u79BF\\DDS2RPV\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\\u9081\u79BF\\DDS2RPV\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAlwHkAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:26:17.475Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DDS2RPVHelper.cs",
+              "DocumentMoniker": "C:\\\u9081\u79BF\\DDS2RPV\\DDS2RPVHelper.cs",
+              "RelativeDocumentMoniker": "DDS2RPVHelper.cs",
+              "ToolTip": "C:\\\u9081\u79BF\\DDS2RPV\\DDS2RPVHelper.cs",
+              "RelativeToolTip": "DDS2RPVHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:27:13.111Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dictionary.cs",
+              "DocumentMoniker": "C:\\Users\\Sam.Leung\\AppData\\Local\\SourceServer\\60546032f23b31a03685e30ef880f5c48e6df2d00a71d09e625da4e2a208bd88\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Sam.Leung\\AppData\\Local\\SourceServer\\60546032f23b31a03685e30ef880f5c48e6df2d00a71d09e625da4e2a208bd88\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
+              "ToolTip": "C:\\Users\\Sam.Leung\\AppData\\Local\\SourceServer\\60546032f23b31a03685e30ef880f5c48e6df2d00a71d09e625da4e2a208bd88\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
+              "RelativeToolTip": "..\\..\\Users\\Sam.Leung\\AppData\\Local\\SourceServer\\60546032f23b31a03685e30ef880f5c48e6df2d00a71d09e625da4e2a208bd88\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAwwMkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:53:58.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\\u9081\u79BF\\DDS2RPV\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\\u9081\u79BF\\DDS2RPV\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-05T06:00:44.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\\u9081\u79BF\\DDS2RPV\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\\u9081\u79BF\\DDS2RPV\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T07:26:20.522Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

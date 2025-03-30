@@ -1,0 +1,293 @@
+RecordID             Staff
+TableID              Staff
+Version              2
+Build                20231115
+FileDescription      "Staff"
+Remarks              "Human Resources"
+
+ExtNamespace         HR
+ClassType            Base
+
+ListProgramID           Hw01sf
+ReportProgramID         Hr01sf
+MaintenanceProgramID    He01sm
+
+DATAFIELD {
+"Staff ID"                      StaffID                 char(10)   //For Internal Use (AutoGen ID)
+"Alternate Staff ID"            AltStaffID              char(10)   //For User Reference
+"Last Name"                     LastName                char(30)
+"First Name"                    FirstName               char(30)
+"Middle Name"                   MiddleName              char(30)
+"Other Name"                    OtherName               char(30)
+"Chinese Name"                  ChineseName             char(20)
+"Chinese Surname"               ChineseSurname          char(10)
+"Chinese First Name"            ChineseFirstName        char(10)
+"Full Name"                     FullName                char(120)
+"ID FullName"                   IDFullName              char(120)
+"E-User Name"                   EUserName               char(120)
+"Staff Initial"                 StaffInitial            char(8)
+
+"Profile Effective Date"		EffectiveDate			date(8,6)
+
+"Company Code"                  CompanyCode             char(10)
+"Division Code"                 DivisionCode            char(10)
+"Department Code"               DeptCode                char(10)
+"Section Code"                  SectionCode             char(10)
+"Service Unit Code"             ServiceUnitCode         char(10)
+"Grade Code"                    GradeCode               char(10)
+"Position Code"                 PositionCode            char(10)
+"Site Code"                     SiteCode                char(10)
+"Initial Position"              InitPosition            char(10)
+"Budget Center"                 BudCenCode              char(20)
+"Cost Center"                   CostCenter              char(10)
+"Use different cost method"     IsCalBySpecMethod       char(1) 
+"Product Segment"               ProdSegment             char(10)
+"Supervisor 1"                  Supervisor1             char(10)
+"Supervisor 2"                  Supervisor2             char(10)
+"Supervisor 3"                  Supervisor3             char(10)
+
+"EUser Password"                EUserPassword           char(50)
+
+"Employment Date"               EmploymentDate          date(8,0)
+"Policy Start Date"             PolicyStartDate         date(8,0)
+"Start Date 418"                StartDate418            date(8,0)
+
+"Probation Period"              ProbationPeriod         char(10)
+"Planned Probation End Date"    PlanProbationEndDate    date(8,0)
+"No of Extend"                  NoOfExtend              num(3v0)
+"Probation Extend To"           ProbationExtendTo       date(8,0)
+"Probation Status"              ProbationStatus         char(8,0)      C=Completed, U=Under, E=Extend
+"Term. Notification Period"     TermNotificationPeriod  char(10)
+"Probation End Date"            ProbationEndDate        date(8,0)
+"Contact Expiry Date"           ContractExpiryDate      date(8,0)
+"Employment Status"             EmployStatus            char(1)         T=terminated, A=active
+"First Joining Date"            FirstJoinDate           date(8,0)
+"Seniority Date"                SeniorityDate           date(8,0)
+"Subsid Company joined date"    SubsidJoinDate          date(8,0)
+"YOS before Employment"			YOSBfEmp   			 	num(2v2)
+
+"Staff Type"                    StaffType               char(10)
+"Employment Term"               EmpTerm                 char(10)
+"Source of Hire"                SourceOfHire            char(10)
+"Insurance Plan"                InsurancePlan           char(10)
+"Insurance Effective Date"      IEffectiveDate          date(8,0)
+"SSF Plan"                      SSFPlan                 char(10)
+"Min. Wage"                     MinWageCode             char(10)
+"Working Day Policy Code"       WDPlcCode               char(10)
+"Holiday Type"                  HolidayType             char(10)
+"Is Foreigner"                  IsForeigner             char(1)
+"Is Shop Staff"                 IsShopStaff             char(1)
+"Is Hold"						IsHold					char(1)
+"Is Rejoin"                     Rejoin                  char(1)
+
+"Gender"                        Gender                  char(1)         M=Male, F=Female
+"MaritalStatus"                 MaritalStatus           char(1)         S=Single, M=Married, P=Separated, W=Widowed, D=Divorced
+"Salutation"                    Salutation              char(1)         1=Mr., 2=Dr., 3=Miss, 4=Mrs., 5=Ms.
+"Date of Birth"                 Birthday                date(8,0)
+"Place of Birth"                PlaceOfBirth            char(10)
+"Religion"                      Religion                char(10)
+"Ethnic Origin"                 EthnicOrigin            char(10)
+"Nationality"                   Nationality             char(10)
+"Nationality2"                  Nationality2            char(10)
+"Name Format"                   NameFormat              char(01)
+"BloodType"                     BloodType               char(1)
+"Image Name"                    ImageName               char(50)
+
+"Termination Date"              TermDate                date(8,0)
+"Termination Code"              TermCode                char(10)
+
+"Last Employment Date"          LastWorkDate            date(8,0)
+
+"Payroll Status"                PayrollStatus           char(1)
+
+"Emergency Contact Full Name 1" EmgContactName          char(120)
+"Emergency Con. Relationship 1" EmgContactRelation      char(10)
+"Emergency Contact Number 1"    EmgContactNum1          char(20)
+"Emergency Contact Full Name 2" EmgContactName2         char(120)
+"Emergency Con. Relationship 2" EmgContactRelation2     char(10)
+"Emergency Contact Number 2"    EmgContactNum2          char(20)
+
+"Telephone Number 1"            TelNum1                 char(20)
+"Telephone Number 2"            TelNum2                 char(20)
+"Mobile Number"                 MobileNum               char(25)
+"Mobile Number2"                MobileNum2              char(25)
+"Office Extension Number"       ExtNum                  char(20)
+"E-mail Address"                Email                   char(90)
+"E-mail Address 2"              Email2                  char(90)
+"Account Code"                  AcctCode                char(10)
+
+"Privilege Group"               PrivTmpID               char(10)
+"Acknowledge Group"             AckGroup                char(10)
+
+"OT Scheme Code"                OTScheme                char(15)   // For E-OT
+"Expense Scheme Code"		    EpClmScheme		        char(15)   // For E-Expense Claim
+"Bonus Policy Code"             BonusPolicy             char(10)
+
+"Analysis Code"                 AnalysisCode            char(10)
+
+//Tony.Sun 20150127
+//StaffTmpPer
+"Is Disability"                 Disability              char(1)
+"Disability Percentage"			DisabilityPercent		num(3v2)
+"Local ID No."					LocalIDNo				char(20)
+"Local ID Type"					LocalIDType				char(10)
+"Local ID Date of Issue"		LocalIDIssueDate		date(8,0)
+"Local Date of Expiry"          LocalIDExpiryDate       date(8,0)
+"Passport No."					PassportNo				char(20)
+"Passport Issuing Place"		PassportIssuePlace		char(10)
+"Passport Date of Issue"		PassportIssueDate		date(8,0)
+"Passport Date of Expiry"		PassportExpiryDate		date(8,0)
+"Working Visa No."				WorkVisaNo				char(25)
+"Working Visa Type"  			WorkVisaType			char(10)
+"Working Visa Issuing Place"	WorkVisaIssuePlace		char(10)
+"Working Visa Date of Issue"	WorkVisaIssueDate		date(8,0)
+"Working Visa Date of Expiry"	WorkVisaExpiryDate		date(8,0)
+"Hiring Source"                 HiringSource            char(10)
+"Hiring Agency"                 HiringAgency            char(10)
+"Referer"                                     Referer                        char(10)
+
+"Residential Address Line 1"    ResAddrLine1            char(50)
+"Residential Address Line 2"    ResAddrLine2            char(50)
+"Residential Address Line 3"    ResAddrLine3            char(50)
+"Residential Address Line 4"    ResAddrLine4            char(50)
+"Residential Address Line 5"    ResAddrLine5            char(50)
+"Residential Address Line 6"    ResAddrLine6            char(50)
+
+"Residential Address Area"		ResArea					char(10)
+"Res Address Effective Date"    ResAddrEffDate          date(8,0)
+"Res Address Zip code"          ResZipCode              char(10)
+
+"Same as Residential Address"   SameAsResAddr           char(1)
+
+"Correspondence Address Line 1" CorAddrLine1            char(50)
+"Correspondence Address Line 2" CorAddrLine2            char(50)
+"Correspondence Address Line 3" CorAddrLine3            char(50)
+"Correspondence Address Line 4" CorAddrLine4            char(50)
+"Correspondence Address Line 5" CorAddrLine5            char(50)
+"Correspondence Address Line 6" CorAddrLine6            char(50)
+
+"Correspondence Address Area"	CorArea					char(10)
+"Cor Address Effective Date"    CorAddrEffDate          date(8,0)
+"Cor Address Zip code"          CorZipCode              char(10)
+
+"District1"                     District1               char(10)
+"District2"                     District2               char(10)
+
+//StaffSalary
+"Bank Code1"                    BankCode1               char(10)
+"Bank Account1"                 BankAcc1                char(50)
+"Bank Name1"                    BankName1               char(140)
+
+"Bank Code2"                    BankCode2               char(10)
+"Bank Account2"                 BankAcc2                char(50)
+"Bank Name2"                    BankName2               char(140)
+
+"Spouse Name"                   SpouseName              char(50)
+
+//StaffTmpJob
+"Job Template Code"             JobTemplateCode         char(10)
+
+"Custom Level 6"                CLevel6                 char(10)
+"Custom Level 7"                CLevel7                 char(10)
+"Custom Level 8"                CLevel8                 char(10)
+"Custom Level 9"                CLevel9                 char(10)
+"Custom Level 10"               CLevel10                char(10)
+
+"Pension Scheme Start Date"		PensionStartDate		date(8,0)
+"RosterGroup"                   RosterGroup             char(10)
+"Default Location"              Location                char(10)
+"Roster Job Type"               RosterJobType           char(10)
+
+"Customize Text 01"             CustText01              char(80)
+"Customize Text 02"             CustText02              char(80)
+"Customize Text 03"             CustText03              char(80)
+"Customize Text 04"             CustText04              char(80)
+"Customize Text 05"             CustText05              char(80)
+
+"Customize Number 01"           CustNo01                num(11v4)
+"Customize Number 02"           CustNo02                num(11v4)
+"Customize Number 03"           CustNo03                num(11v4)
+"Customize Number 04"           CustNo04                num(11v4)
+"Customize Number 05"           CustNo05                num(11v4)
+
+
+"Customize Date 01"             CustDate01              date(8,0)
+"Customize Date 02"             CustDate02              date(8,0)
+"Customize Date 03"             CustDate03              date(8,0)
+"Customize Date 04"             CustDate04              date(8,0)
+"Customize Date 05"             CustDate05              date(8,0)
+
+"Customize Combo 01"            CustComboText01         char(50)
+"Customize Combo 02"            CustComboText02         char(50)
+"Customize Combo 03"            CustComboText03         char(50)
+"Customize Combo 04"            CustComboText04         char(50)
+"Customize Combo 05"            CustComboText05         char(50)
+
+"Taxation Employer"             TaxEmployer             char(10)
+"Report To"                     ReportTo                char(10)
+"Task Deputy"                   DeputyCode              char(10)
+
+"Termination Policy Group"      TermPlcyGroup           char(10)
+"Create user"                   CreateUser              char(20)            Hidden           IOupdate
+"Create date"                   CreateDate              date(8,6)           Hidden           IOupdate
+"Last update user"              LastUpdateUser          char(20)            Display          IOupdate
+"Last update date"              LastUpdateDate          date(8,6)           Display          IOupdate
+
+}
+
+
+Key 1 {
+StaffID
+}
+
+Key 2 {
+LastName FirstName StaffID
+}
+
+Key 3 {
+AltStaffID StaffID
+}
+
+Key 4 {
+OtherName StaffID
+}
+
+Key 5 {
+DeptCode StaffID
+}
+
+Key 6 {
+ProbationEndDate StaffID
+}
+
+Key 7 {
+Birthday ChineseName EmployStatus StaffID
+}
+
+Key 8 {
+PositionCode GradeCode SeniorityDate StaffID
+}
+
+Key 9 {
+EmploymentDate StaffID
+}
+
+Key 10 {
+StaffInitial StaffID
+}
+
+Key 11{
+DeptCode FullName StaffID
+}
+
+Key 12{
+PositionCode DivisionCode DeptCode FullName StaffID
+}
+
+Key 13{
+BonusPolicy StaffID
+}
+
+Key 14{
+PrivTmpID StaffID
+}

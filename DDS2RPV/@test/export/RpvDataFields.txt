@@ -1,0 +1,2559 @@
+﻿<Field>
+  <DataName>Staff_StaffID</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Staff ID</LanguageENG>
+    <LanguageCGB>雇员编号</LanguageCGB>
+    <LanguageCB5>僱員編號</LanguageCB5>
+    <LanguageVET>員工編號</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_AltStaffID</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Alternate Staff ID</LanguageENG>
+    <LanguageCGB>第二雇员编号</LanguageCGB>
+    <LanguageCB5>第二僱員編號</LanguageCB5>
+    <LanguageVET>第二員工編號</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_LastName</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Last Name</LanguageENG>
+    <LanguageCGB>姓</LanguageCGB>
+    <LanguageCB5>姓</LanguageCB5>
+    <LanguageVET>姓</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_FirstName</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>First Name</LanguageENG>
+    <LanguageCGB>名</LanguageCGB>
+    <LanguageCB5>名</LanguageCB5>
+    <LanguageVET>名</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_MiddleName</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Middle Name</LanguageENG>
+    <LanguageCGB>中名</LanguageCGB>
+    <LanguageCB5>中名</LanguageCB5>
+    <LanguageVET>中間名</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_OtherName</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Other Name</LanguageENG>
+    <LanguageCGB>其他名称</LanguageCGB>
+    <LanguageCB5>其他名稱</LanguageCB5>
+    <LanguageVET>其他名稱</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ChineseName</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Chinese Name</LanguageENG>
+    <LanguageCGB>中文姓名</LanguageCGB>
+    <LanguageCB5>中文姓名</LanguageCB5>
+    <LanguageVET>中文姓名</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ChineseSurname</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Chinese Surname</LanguageENG>
+    <LanguageCGB>姓</LanguageCGB>
+    <LanguageCB5>姓</LanguageCB5>
+    <LanguageVET>姓</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ChineseFirstName</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Chinese First Name</LanguageENG>
+    <LanguageCGB>名</LanguageCGB>
+    <LanguageCB5>名</LanguageCB5>
+    <LanguageVET>名</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_FullName</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Full Name</LanguageENG>
+    <LanguageCGB>雇员姓名</LanguageCGB>
+    <LanguageCB5>僱員姓名</LanguageCB5>
+    <LanguageVET>員工姓名</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_IDFullName</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>ID FullName</LanguageENG>
+    <LanguageCGB>ID FullName</LanguageCGB>
+    <LanguageCB5>ID FullName</LanguageCB5>
+    <LanguageVET>ID FullName</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_EUserName</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>E-User Name</LanguageENG>
+    <LanguageCGB>E-用戶名称</LanguageCGB>
+    <LanguageCB5>E-用戶名稱</LanguageCB5>
+    <LanguageVET>E-用戶名稱</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_StaffInitial</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Staff Initial</LanguageENG>
+    <LanguageCGB>雇员内部称呼</LanguageCGB>
+    <LanguageCB5>僱員內部稱呼</LanguageCB5>
+    <LanguageVET>員工內部稱呼</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_EffectiveDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Profile Effective Date</LanguageENG>
+    <LanguageCGB>Profile Effective Date</LanguageCGB>
+    <LanguageCB5>Profile Effective Date</LanguageCB5>
+    <LanguageVET>Profile Effective Date</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_CompanyCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Company Code</LanguageENG>
+    <LanguageCGB>公司编号</LanguageCGB>
+    <LanguageCB5>公司編號</LanguageCB5>
+    <LanguageVET>公司編號</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_DivisionCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Division Code</LanguageENG>
+    <LanguageCGB>子公司编号</LanguageCGB>
+    <LanguageCB5>子公司編號</LanguageCB5>
+    <LanguageVET>子公司編號</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_DeptCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Department Code</LanguageENG>
+    <LanguageCGB>部门编号</LanguageCGB>
+    <LanguageCB5>部門編號</LanguageCB5>
+    <LanguageVET>部門編號</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_SectionCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Section Code</LanguageENG>
+    <LanguageCGB>科组编号</LanguageCGB>
+    <LanguageCB5>科組編號</LanguageCB5>
+    <LanguageVET>科組編號</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ServiceUnitCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Service Unit Code</LanguageENG>
+    <LanguageCGB>服务单位</LanguageCGB>
+    <LanguageCB5>服務單位</LanguageCB5>
+    <LanguageVET>服務單位</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_GradeCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Grade Code</LanguageENG>
+    <LanguageCGB>职级编号</LanguageCGB>
+    <LanguageCB5>職級編號</LanguageCB5>
+    <LanguageVET>職級編號</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_PositionCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Position Code</LanguageENG>
+    <LanguageCGB>职位编码</LanguageCGB>
+    <LanguageCB5>職位編碼</LanguageCB5>
+    <LanguageVET>職位編碼</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_SiteCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Site Code</LanguageENG>
+    <LanguageCGB>工作地点编号</LanguageCGB>
+    <LanguageCB5>工作地點編號</LanguageCB5>
+    <LanguageVET>工作地點編號</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_InitPosition</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Initial Position</LanguageENG>
+    <LanguageCGB>Initial Position</LanguageCGB>
+    <LanguageCB5>Initial Position</LanguageCB5>
+    <LanguageVET>Initial Position</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_BudCenCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Budget Center</LanguageENG>
+    <LanguageCGB>预算中心</LanguageCGB>
+    <LanguageCB5>預算中心</LanguageCB5>
+    <LanguageVET>預算中心</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CostCenter</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Cost Center</LanguageENG>
+    <LanguageCGB>成本中心</LanguageCGB>
+    <LanguageCB5>成本中心</LanguageCB5>
+    <LanguageVET>成本中心</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_IsCalBySpecMethod</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Use different cost method</LanguageENG>
+    <LanguageCGB>Use different cost method</LanguageCGB>
+    <LanguageCB5>Use different cost method</LanguageCB5>
+    <LanguageVET>Use different cost method</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ProdSegment</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Product Segment</LanguageENG>
+    <LanguageCGB>产品部分</LanguageCGB>
+    <LanguageCB5>產品部分</LanguageCB5>
+    <LanguageVET>產品部分</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Supervisor1</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Supervisor 1</LanguageENG>
+    <LanguageCGB>主管1</LanguageCGB>
+    <LanguageCB5>主管1</LanguageCB5>
+    <LanguageVET>主管1</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Supervisor2</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Supervisor 2</LanguageENG>
+    <LanguageCGB>主管2</LanguageCGB>
+    <LanguageCB5>主管2</LanguageCB5>
+    <LanguageVET>主管2</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Supervisor3</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Supervisor 3</LanguageENG>
+    <LanguageCGB>主管3</LanguageCGB>
+    <LanguageCB5>主管3</LanguageCB5>
+    <LanguageVET>主管3</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_EUserPassword</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>EUser Password</LanguageENG>
+    <LanguageCGB>EUser Password</LanguageCGB>
+    <LanguageCB5>EUser Password</LanguageCB5>
+    <LanguageVET>EUser Password</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_EmploymentDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Employment Date</LanguageENG>
+    <LanguageCGB>入职日期</LanguageCGB>
+    <LanguageCB5>入職日期</LanguageCB5>
+    <LanguageVET>入職日期</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_PolicyStartDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Policy Start Date</LanguageENG>
+    <LanguageCGB>政策开始日期</LanguageCGB>
+    <LanguageCB5>政策開始日期</LanguageCB5>
+    <LanguageVET>政策開始日期</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_StartDate418</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Start Date 418</LanguageENG>
+    <LanguageCGB>Start Date 418</LanguageCGB>
+    <LanguageCB5>Start Date 418</LanguageCB5>
+    <LanguageVET>Start Date 418</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_ProbationPeriod</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Probation Period</LanguageENG>
+    <LanguageCGB>试用期期间</LanguageCGB>
+    <LanguageCB5>試用期期間</LanguageCB5>
+    <LanguageVET>試用期期間</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_PlanProbationEndDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Planned Probation End Date</LanguageENG>
+    <LanguageCGB>Planned Probation End Date</LanguageCGB>
+    <LanguageCB5>Planned Probation End Date</LanguageCB5>
+    <LanguageVET>Planned Probation End Date</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_NoOfExtend</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>No of Extend</LanguageENG>
+    <LanguageCGB>No of Extend</LanguageCGB>
+    <LanguageCB5>No of Extend</LanguageCB5>
+    <LanguageVET>No of Extend</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>num</ColumnDataType>
+  <NumFormat>##0</NumFormat>
+<NumFrontDec>0</NumFrontDec>
+<NumBackDec>0</NumBackDec>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ProbationExtendTo</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Probation Extend To</LanguageENG>
+    <LanguageCGB>Probation Extend To</LanguageCGB>
+    <LanguageCB5>Probation Extend To</LanguageCB5>
+    <LanguageVET>Probation Extend To</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_ProbationStatus</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Probation Status</LanguageENG>
+    <LanguageCGB>试用期状况</LanguageCGB>
+    <LanguageCB5>試用期狀況</LanguageCB5>
+    <LanguageVET>試用期狀況</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_TermNotificationPeriod</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Term. Notification Period</LanguageENG>
+    <LanguageCGB>Term. Notification Period</LanguageCGB>
+    <LanguageCB5>Term. Notification Period</LanguageCB5>
+    <LanguageVET>Term. Notification Period</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ProbationEndDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Probation End Date</LanguageENG>
+    <LanguageCGB>试用完结日</LanguageCGB>
+    <LanguageCB5>試用完結日</LanguageCB5>
+    <LanguageVET>試用完結日</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_ContractExpiryDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Contact Expiry Date</LanguageENG>
+    <LanguageCGB>Contact Expiry Date</LanguageCGB>
+    <LanguageCB5>Contact Expiry Date</LanguageCB5>
+    <LanguageVET>Contact Expiry Date</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_EmployStatus</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Employment Status</LanguageENG>
+    <LanguageCGB>雇用状态</LanguageCGB>
+    <LanguageCB5>僱用狀態</LanguageCB5>
+    <LanguageVET>僱用狀態</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_FirstJoinDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>First Joining Date</LanguageENG>
+    <LanguageCGB>First Joining Date</LanguageCGB>
+    <LanguageCB5>First Joining Date</LanguageCB5>
+    <LanguageVET>First Joining Date</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_SeniorityDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Seniority Date</LanguageENG>
+    <LanguageCGB>有效雇用日</LanguageCGB>
+    <LanguageCB5>有效僱用日</LanguageCB5>
+    <LanguageVET>有效僱用日</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_SubsidJoinDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Subsid Company joined date</LanguageENG>
+    <LanguageCGB>Subsid Company joined date</LanguageCGB>
+    <LanguageCB5>Subsid Company joined date</LanguageCB5>
+    <LanguageVET>Subsid Company joined date</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_YOSBfEmp</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>YOS before Employment</LanguageENG>
+    <LanguageCGB>入职前工龄</LanguageCGB>
+    <LanguageCB5>入職前工齡</LanguageCB5>
+    <LanguageVET>入職前工齡</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>num</ColumnDataType>
+  <NumFormat>#0.00</NumFormat>
+<NumFrontDec>2</NumFrontDec>
+<NumBackDec>0</NumBackDec>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_StaffType</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Staff Type</LanguageENG>
+    <LanguageCGB>雇员类型</LanguageCGB>
+    <LanguageCB5>僱員類型</LanguageCB5>
+    <LanguageVET>員工類型</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_EmpTerm</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Employment Term</LanguageENG>
+    <LanguageCGB>雇用条件</LanguageCGB>
+    <LanguageCB5>僱用條件</LanguageCB5>
+    <LanguageVET>僱用條件</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_SourceOfHire</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Source of Hire</LanguageENG>
+    <LanguageCGB>招聘来源</LanguageCGB>
+    <LanguageCB5>招聘來源</LanguageCB5>
+    <LanguageVET>招聘來源</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_InsurancePlan</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Insurance Plan</LanguageENG>
+    <LanguageCGB>保险计划</LanguageCGB>
+    <LanguageCB5>保險計劃</LanguageCB5>
+    <LanguageVET>保險計劃</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_IEffectiveDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Insurance Effective Date</LanguageENG>
+    <LanguageCGB>Insurance Effective Date</LanguageCGB>
+    <LanguageCB5>Insurance Effective Date</LanguageCB5>
+    <LanguageVET>Insurance Effective Date</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_SSFPlan</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>SSF Plan</LanguageENG>
+    <LanguageCGB>社保计划</LanguageCGB>
+    <LanguageCB5>社保計劃</LanguageCB5>
+    <LanguageVET>社保計劃</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_MinWageCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Min. Wage</LanguageENG>
+    <LanguageCGB>最低工资</LanguageCGB>
+    <LanguageCB5>最低工資</LanguageCB5>
+    <LanguageVET>最低薪資</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_WDPlcCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Working Day Policy Code</LanguageENG>
+    <LanguageCGB>工作天政策编号</LanguageCGB>
+    <LanguageCB5>工作天政策編號</LanguageCB5>
+    <LanguageVET>工作天政策編號</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_HolidayType</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Holiday Type</LanguageENG>
+    <LanguageCGB>假日类型</LanguageCGB>
+    <LanguageCB5>假日類型</LanguageCB5>
+    <LanguageVET>假日類型</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_IsForeigner</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Is Foreigner</LanguageENG>
+    <LanguageCGB>外籍人士</LanguageCGB>
+    <LanguageCB5>外籍人士</LanguageCB5>
+    <LanguageVET>外籍人士</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_IsShopStaff</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Is Shop Staff</LanguageENG>
+    <LanguageCGB>Is Shop Staff</LanguageCGB>
+    <LanguageCB5>Is Shop Staff</LanguageCB5>
+    <LanguageVET>Is Shop Staff</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_IsHold</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Is Hold</LanguageENG>
+    <LanguageCGB>停薪留职</LanguageCGB>
+    <LanguageCB5>停薪留職</LanguageCB5>
+    <LanguageVET>停薪留職</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Rejoin</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Is Rejoin</LanguageENG>
+    <LanguageCGB>再入职</LanguageCGB>
+    <LanguageCB5>再入職</LanguageCB5>
+    <LanguageVET>再入職</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Gender</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Gender</LanguageENG>
+    <LanguageCGB>性别</LanguageCGB>
+    <LanguageCB5>性別</LanguageCB5>
+    <LanguageVET>性別</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_MaritalStatus</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>MaritalStatus</LanguageENG>
+    <LanguageCGB>MaritalStatus</LanguageCGB>
+    <LanguageCB5>MaritalStatus</LanguageCB5>
+    <LanguageVET>MaritalStatus</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Salutation</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Salutation</LanguageENG>
+    <LanguageCGB>称呼</LanguageCGB>
+    <LanguageCB5>稱呼</LanguageCB5>
+    <LanguageVET>稱呼</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Birthday</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Date of Birth</LanguageENG>
+    <LanguageCGB>Birthday</LanguageCGB>
+    <LanguageCB5>出生日</LanguageCB5>
+    <LanguageVET>出生日</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_PlaceOfBirth</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Place of Birth</LanguageENG>
+    <LanguageCGB>出生地点</LanguageCGB>
+    <LanguageCB5>出生地點</LanguageCB5>
+    <LanguageVET>出生地點</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Religion</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Religion</LanguageENG>
+    <LanguageCGB>宗教</LanguageCGB>
+    <LanguageCB5>宗教</LanguageCB5>
+    <LanguageVET>宗教</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_EthnicOrigin</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Ethnic Origin</LanguageENG>
+    <LanguageCGB>籍贯</LanguageCGB>
+    <LanguageCB5>籍貫</LanguageCB5>
+    <LanguageVET>籍貫</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Nationality</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Nationality</LanguageENG>
+    <LanguageCGB>国籍</LanguageCGB>
+    <LanguageCB5>國籍</LanguageCB5>
+    <LanguageVET>國籍</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Nationality2</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Nationality2</LanguageENG>
+    <LanguageCGB>Nationality2</LanguageCGB>
+    <LanguageCB5>Nationality2</LanguageCB5>
+    <LanguageVET>Nationality2</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_NameFormat</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Name Format</LanguageENG>
+    <LanguageCGB>姓名格式</LanguageCGB>
+    <LanguageCB5>姓名格式</LanguageCB5>
+    <LanguageVET>姓名格式</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_BloodType</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>BloodType</LanguageENG>
+    <LanguageCGB>BloodType</LanguageCGB>
+    <LanguageCB5>BloodType</LanguageCB5>
+    <LanguageVET>BloodType</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ImageName</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Image Name</LanguageENG>
+    <LanguageCGB>Image Name</LanguageCGB>
+    <LanguageCB5>Image Name</LanguageCB5>
+    <LanguageVET>Image Name</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_TermDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Termination Date</LanguageENG>
+    <LanguageCGB>离职日期范围</LanguageCGB>
+    <LanguageCB5>離職日期範圍</LanguageCB5>
+    <LanguageVET>離職日期範圍</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_TermCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Termination Code</LanguageENG>
+    <LanguageCGB>Termination Code</LanguageCGB>
+    <LanguageCB5>Termination Code</LanguageCB5>
+    <LanguageVET>Termination Code</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_LastWorkDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Last Employment Date</LanguageENG>
+    <LanguageCGB>最后雇用日期</LanguageCGB>
+    <LanguageCB5>最後僱用日期</LanguageCB5>
+    <LanguageVET>最後僱用日期</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_PayrollStatus</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Payroll Status</LanguageENG>
+    <LanguageCGB>发薪状态</LanguageCGB>
+    <LanguageCB5>發薪狀態</LanguageCB5>
+    <LanguageVET>發薪狀態</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_EmgContactName</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Emergency Contact Full Name 1</LanguageENG>
+    <LanguageCGB>Emergency Contact Full Name 1</LanguageCGB>
+    <LanguageCB5>Emergency Contact Full Name 1</LanguageCB5>
+    <LanguageVET>Emergency Contact Full Name 1</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_EmgContactRelation</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Emergency Con. Relationship 1</LanguageENG>
+    <LanguageCGB>Emergency Con. Relationship 1</LanguageCGB>
+    <LanguageCB5>Emergency Con. Relationship 1</LanguageCB5>
+    <LanguageVET>Emergency Con. Relationship 1</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_EmgContactNum1</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Emergency Contact Number 1</LanguageENG>
+    <LanguageCGB>Emergency Contact Number 1</LanguageCGB>
+    <LanguageCB5>Emergency Contact Number 1</LanguageCB5>
+    <LanguageVET>Emergency Contact Number 1</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_EmgContactName2</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Emergency Contact Full Name 2</LanguageENG>
+    <LanguageCGB>Emergency Contact Full Name 2</LanguageCGB>
+    <LanguageCB5>Emergency Contact Full Name 2</LanguageCB5>
+    <LanguageVET>Emergency Contact Full Name 2</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_EmgContactRelation2</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Emergency Con. Relationship 2</LanguageENG>
+    <LanguageCGB>Emergency Con. Relationship 2</LanguageCGB>
+    <LanguageCB5>Emergency Con. Relationship 2</LanguageCB5>
+    <LanguageVET>Emergency Con. Relationship 2</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_EmgContactNum2</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Emergency Contact Number 2</LanguageENG>
+    <LanguageCGB>Emergency Contact Number 2</LanguageCGB>
+    <LanguageCB5>Emergency Contact Number 2</LanguageCB5>
+    <LanguageVET>Emergency Contact Number 2</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_TelNum1</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Telephone Number 1</LanguageENG>
+    <LanguageCGB>Telephone Number 1</LanguageCGB>
+    <LanguageCB5>Telephone Number 1</LanguageCB5>
+    <LanguageVET>Telephone Number 1</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_TelNum2</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Telephone Number 2</LanguageENG>
+    <LanguageCGB>Telephone Number 2</LanguageCGB>
+    <LanguageCB5>Telephone Number 2</LanguageCB5>
+    <LanguageVET>Telephone Number 2</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_MobileNum</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Mobile Number</LanguageENG>
+    <LanguageCGB>手机号码</LanguageCGB>
+    <LanguageCB5>手機號碼</LanguageCB5>
+    <LanguageVET>手機號碼</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_MobileNum2</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Mobile Number2</LanguageENG>
+    <LanguageCGB>Mobile Number2</LanguageCGB>
+    <LanguageCB5>Mobile Number2</LanguageCB5>
+    <LanguageVET>Mobile Number2</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ExtNum</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Office Extension Number</LanguageENG>
+    <LanguageCGB>Office Extension Number</LanguageCGB>
+    <LanguageCB5>Office Extension Number</LanguageCB5>
+    <LanguageVET>Office Extension Number</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Email</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>E-mail Address</LanguageENG>
+    <LanguageCGB>电子邮件</LanguageCGB>
+    <LanguageCB5>電子郵件</LanguageCB5>
+    <LanguageVET>電子郵件</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Email2</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>E-mail Address 2</LanguageENG>
+    <LanguageCGB>E-mail Address 2</LanguageCGB>
+    <LanguageCB5>E-mail Address 2</LanguageCB5>
+    <LanguageVET>E-mail Address 2</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_AcctCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Account Code</LanguageENG>
+    <LanguageCGB>会计科目编号</LanguageCGB>
+    <LanguageCB5>會計科目編號</LanguageCB5>
+    <LanguageVET>會計科目編號</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_PrivTmpID</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Privilege Group</LanguageENG>
+    <LanguageCGB>Privilege Group</LanguageCGB>
+    <LanguageCB5>Privilege Group</LanguageCB5>
+    <LanguageVET>Privilege Group</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_AckGroup</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Acknowledge Group</LanguageENG>
+    <LanguageCGB>确认资料组别</LanguageCGB>
+    <LanguageCB5>確認資料組別</LanguageCB5>
+    <LanguageVET>確認資料組別</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_OTScheme</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>OT Scheme Code</LanguageENG>
+    <LanguageCGB>加班计划编号</LanguageCGB>
+    <LanguageCB5>加班計劃編號</LanguageCB5>
+    <LanguageVET>加班計劃編號</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_EpClmScheme</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Expense Scheme Code</LanguageENG>
+    <LanguageCGB>Expense Scheme Code</LanguageCGB>
+    <LanguageCB5>Expense Scheme Code</LanguageCB5>
+    <LanguageVET>Expense Scheme Code</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_BonusPolicy</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Bonus Policy Code</LanguageENG>
+    <LanguageCGB>奖金政策编码</LanguageCGB>
+    <LanguageCB5>獎金政策編碼</LanguageCB5>
+    <LanguageVET>獎金政策編碼</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_AnalysisCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Analysis Code</LanguageENG>
+    <LanguageCGB>分析编号</LanguageCGB>
+    <LanguageCB5>分析編號</LanguageCB5>
+    <LanguageVET>分析編號</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Disability</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Is Disability</LanguageENG>
+    <LanguageCGB>残疾</LanguageCGB>
+    <LanguageCB5>殘疾</LanguageCB5>
+    <LanguageVET>殘疾</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_DisabilityPercent</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Disability Percentage</LanguageENG>
+    <LanguageCGB>Disability Percentage</LanguageCGB>
+    <LanguageCB5>Disability Percentage</LanguageCB5>
+    <LanguageVET>Disability Percentage</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>num</ColumnDataType>
+  <NumFormat>##0.00</NumFormat>
+<NumFrontDec>2</NumFrontDec>
+<NumBackDec>0</NumBackDec>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_LocalIDNo</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Local ID No.</LanguageENG>
+    <LanguageCGB>身份证号码</LanguageCGB>
+    <LanguageCB5>身份證號碼</LanguageCB5>
+    <LanguageVET>身分證號碼</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_LocalIDType</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Local ID Type</LanguageENG>
+    <LanguageCGB>身份证类别</LanguageCGB>
+    <LanguageCB5>身份證類別</LanguageCB5>
+    <LanguageVET>身份證類別</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_LocalIDIssueDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Local ID Date of Issue</LanguageENG>
+    <LanguageCGB>Local ID Date of Issue</LanguageCGB>
+    <LanguageCB5>Local ID Date of Issue</LanguageCB5>
+    <LanguageVET>Local ID Date of Issue</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_LocalIDExpiryDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Local Date of Expiry</LanguageENG>
+    <LanguageCGB>Local Date of Expiry</LanguageCGB>
+    <LanguageCB5>Local Date of Expiry</LanguageCB5>
+    <LanguageVET>Local Date of Expiry</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_PassportNo</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Passport No.</LanguageENG>
+    <LanguageCGB>护照号码</LanguageCGB>
+    <LanguageCB5>護照號碼</LanguageCB5>
+    <LanguageVET>護照號碼</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_PassportIssuePlace</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Passport Issuing Place</LanguageENG>
+    <LanguageCGB>Passport Issuing Place</LanguageCGB>
+    <LanguageCB5>Passport Issuing Place</LanguageCB5>
+    <LanguageVET>Passport Issuing Place</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_PassportIssueDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Passport Date of Issue</LanguageENG>
+    <LanguageCGB>Passport Date of Issue</LanguageCGB>
+    <LanguageCB5>Passport Date of Issue</LanguageCB5>
+    <LanguageVET>Passport Date of Issue</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_PassportExpiryDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Passport Date of Expiry</LanguageENG>
+    <LanguageCGB>Passport Date of Expiry</LanguageCGB>
+    <LanguageCB5>Passport Date of Expiry</LanguageCB5>
+    <LanguageVET>Passport Date of Expiry</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_WorkVisaNo</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Working Visa No.</LanguageENG>
+    <LanguageCGB>工作签证号码</LanguageCGB>
+    <LanguageCB5>工作簽證號碼</LanguageCB5>
+    <LanguageVET>工作簽證號碼</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_WorkVisaType</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Working Visa Type</LanguageENG>
+    <LanguageCGB>Working Visa Type</LanguageCGB>
+    <LanguageCB5>Working Visa Type</LanguageCB5>
+    <LanguageVET>Working Visa Type</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_WorkVisaIssuePlace</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Working Visa Issuing Place</LanguageENG>
+    <LanguageCGB>Working Visa Issuing Place</LanguageCGB>
+    <LanguageCB5>Working Visa Issuing Place</LanguageCB5>
+    <LanguageVET>Working Visa Issuing Place</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_WorkVisaIssueDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Working Visa Date of Issue</LanguageENG>
+    <LanguageCGB>Working Visa Date of Issue</LanguageCGB>
+    <LanguageCB5>Working Visa Date of Issue</LanguageCB5>
+    <LanguageVET>Working Visa Date of Issue</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_WorkVisaExpiryDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Working Visa Date of Expiry</LanguageENG>
+    <LanguageCGB>Working Visa Date of Expiry</LanguageCGB>
+    <LanguageCB5>Working Visa Date of Expiry</LanguageCB5>
+    <LanguageVET>Working Visa Date of Expiry</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_HiringSource</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Hiring Source</LanguageENG>
+    <LanguageCGB>招聘途径</LanguageCGB>
+    <LanguageCB5>招聘途徑</LanguageCB5>
+    <LanguageVET>招聘途徑</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_HiringAgency</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Hiring Agency</LanguageENG>
+    <LanguageCGB>招聘中介</LanguageCGB>
+    <LanguageCB5>招聘仲介</LanguageCB5>
+    <LanguageVET>招聘仲介</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Referer</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Referer</LanguageENG>
+    <LanguageCGB>Referer</LanguageCGB>
+    <LanguageCB5>Referer</LanguageCB5>
+    <LanguageVET>Referer</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ResAddrLine1</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Residential Address Line 1</LanguageENG>
+    <LanguageCGB>Residential Address Line 1</LanguageCGB>
+    <LanguageCB5>Residential Address Line 1</LanguageCB5>
+    <LanguageVET>Residential Address Line 1</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ResAddrLine2</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Residential Address Line 2</LanguageENG>
+    <LanguageCGB>Residential Address Line 2</LanguageCGB>
+    <LanguageCB5>Residential Address Line 2</LanguageCB5>
+    <LanguageVET>Residential Address Line 2</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ResAddrLine3</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Residential Address Line 3</LanguageENG>
+    <LanguageCGB>Residential Address Line 3</LanguageCGB>
+    <LanguageCB5>Residential Address Line 3</LanguageCB5>
+    <LanguageVET>Residential Address Line 3</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ResAddrLine4</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Residential Address Line 4</LanguageENG>
+    <LanguageCGB>Residential Address Line 4</LanguageCGB>
+    <LanguageCB5>Residential Address Line 4</LanguageCB5>
+    <LanguageVET>Residential Address Line 4</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ResAddrLine5</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Residential Address Line 5</LanguageENG>
+    <LanguageCGB>Residential Address Line 5</LanguageCGB>
+    <LanguageCB5>Residential Address Line 5</LanguageCB5>
+    <LanguageVET>Residential Address Line 5</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ResAddrLine6</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Residential Address Line 6</LanguageENG>
+    <LanguageCGB>Residential Address Line 6</LanguageCGB>
+    <LanguageCB5>Residential Address Line 6</LanguageCB5>
+    <LanguageVET>Residential Address Line 6</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ResArea</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Residential Address Area</LanguageENG>
+    <LanguageCGB>Residential Address Area</LanguageCGB>
+    <LanguageCB5>Residential Address Area</LanguageCB5>
+    <LanguageVET>Residential Address Area</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ResAddrEffDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Res Address Effective Date</LanguageENG>
+    <LanguageCGB>Res Address Effective Date</LanguageCGB>
+    <LanguageCB5>Res Address Effective Date</LanguageCB5>
+    <LanguageVET>Res Address Effective Date</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_ResZipCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Res Address Zip code</LanguageENG>
+    <LanguageCGB>Res Address Zip code</LanguageCGB>
+    <LanguageCB5>Res Address Zip code</LanguageCB5>
+    <LanguageVET>Res Address Zip code</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_SameAsResAddr</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Same as Residential Address</LanguageENG>
+    <LanguageCGB>Same as Residential Address</LanguageCGB>
+    <LanguageCB5>Same as Residential Address</LanguageCB5>
+    <LanguageVET>Same as Residential Address</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CorAddrLine1</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Correspondence Address Line 1</LanguageENG>
+    <LanguageCGB>Correspondence Address Line 1</LanguageCGB>
+    <LanguageCB5>Correspondence Address Line 1</LanguageCB5>
+    <LanguageVET>Correspondence Address Line 1</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CorAddrLine2</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Correspondence Address Line 2</LanguageENG>
+    <LanguageCGB>Correspondence Address Line 2</LanguageCGB>
+    <LanguageCB5>Correspondence Address Line 2</LanguageCB5>
+    <LanguageVET>Correspondence Address Line 2</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CorAddrLine3</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Correspondence Address Line 3</LanguageENG>
+    <LanguageCGB>Correspondence Address Line 3</LanguageCGB>
+    <LanguageCB5>Correspondence Address Line 3</LanguageCB5>
+    <LanguageVET>Correspondence Address Line 3</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CorAddrLine4</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Correspondence Address Line 4</LanguageENG>
+    <LanguageCGB>Correspondence Address Line 4</LanguageCGB>
+    <LanguageCB5>Correspondence Address Line 4</LanguageCB5>
+    <LanguageVET>Correspondence Address Line 4</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CorAddrLine5</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Correspondence Address Line 5</LanguageENG>
+    <LanguageCGB>Correspondence Address Line 5</LanguageCGB>
+    <LanguageCB5>Correspondence Address Line 5</LanguageCB5>
+    <LanguageVET>Correspondence Address Line 5</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CorAddrLine6</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Correspondence Address Line 6</LanguageENG>
+    <LanguageCGB>Correspondence Address Line 6</LanguageCGB>
+    <LanguageCB5>Correspondence Address Line 6</LanguageCB5>
+    <LanguageVET>Correspondence Address Line 6</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CorArea</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Correspondence Address Area</LanguageENG>
+    <LanguageCGB>Correspondence Address Area</LanguageCGB>
+    <LanguageCB5>Correspondence Address Area</LanguageCB5>
+    <LanguageVET>Correspondence Address Area</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CorAddrEffDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Cor Address Effective Date</LanguageENG>
+    <LanguageCGB>Cor Address Effective Date</LanguageCGB>
+    <LanguageCB5>Cor Address Effective Date</LanguageCB5>
+    <LanguageVET>Cor Address Effective Date</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_CorZipCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Cor Address Zip code</LanguageENG>
+    <LanguageCGB>Cor Address Zip code</LanguageCGB>
+    <LanguageCB5>Cor Address Zip code</LanguageCB5>
+    <LanguageVET>Cor Address Zip code</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_District1</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>District1</LanguageENG>
+    <LanguageCGB>地区1</LanguageCGB>
+    <LanguageCB5>地區1</LanguageCB5>
+    <LanguageVET>地區1</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_District2</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>District2</LanguageENG>
+    <LanguageCGB>地区2</LanguageCGB>
+    <LanguageCB5>地區2</LanguageCB5>
+    <LanguageVET>地區2</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_BankCode1</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Bank Code1</LanguageENG>
+    <LanguageCGB>Bank Code1</LanguageCGB>
+    <LanguageCB5>Bank Code1</LanguageCB5>
+    <LanguageVET>Bank Code1</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_BankAcc1</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Bank Account1</LanguageENG>
+    <LanguageCGB>Bank Account1</LanguageCGB>
+    <LanguageCB5>Bank Account1</LanguageCB5>
+    <LanguageVET>Bank Account1</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_BankName1</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Bank Name1</LanguageENG>
+    <LanguageCGB>Bank Name1</LanguageCGB>
+    <LanguageCB5>Bank Name1</LanguageCB5>
+    <LanguageVET>Bank Name1</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_BankCode2</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Bank Code2</LanguageENG>
+    <LanguageCGB>Bank Code2</LanguageCGB>
+    <LanguageCB5>Bank Code2</LanguageCB5>
+    <LanguageVET>Bank Code2</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_BankAcc2</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Bank Account2</LanguageENG>
+    <LanguageCGB>Bank Account2</LanguageCGB>
+    <LanguageCB5>Bank Account2</LanguageCB5>
+    <LanguageVET>Bank Account2</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_BankName2</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Bank Name2</LanguageENG>
+    <LanguageCGB>Bank Name2</LanguageCGB>
+    <LanguageCB5>Bank Name2</LanguageCB5>
+    <LanguageVET>Bank Name2</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_SpouseName</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Spouse Name</LanguageENG>
+    <LanguageCGB>配偶姓名</LanguageCGB>
+    <LanguageCB5>配偶姓名</LanguageCB5>
+    <LanguageVET>配偶姓名</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_JobTemplateCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Job Template Code</LanguageENG>
+    <LanguageCGB>工作模板代码</LanguageCGB>
+    <LanguageCB5>工作模板代碼</LanguageCB5>
+    <LanguageVET>工作範本代碼</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CLevel6</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Custom Level 6</LanguageENG>
+    <LanguageCGB>Clevel6</LanguageCGB>
+    <LanguageCB5>Clevel6</LanguageCB5>
+    <LanguageVET>Clevel6</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CLevel7</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Custom Level 7</LanguageENG>
+    <LanguageCGB>Clevel7</LanguageCGB>
+    <LanguageCB5>Clevel7</LanguageCB5>
+    <LanguageVET>Clevel7</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CLevel8</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Custom Level 8</LanguageENG>
+    <LanguageCGB>Clevel8</LanguageCGB>
+    <LanguageCB5>Clevel8</LanguageCB5>
+    <LanguageVET>Clevel8</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CLevel9</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Custom Level 9</LanguageENG>
+    <LanguageCGB>Clevel9</LanguageCGB>
+    <LanguageCB5>Clevel9</LanguageCB5>
+    <LanguageVET>Clevel9</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CLevel10</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Custom Level 10</LanguageENG>
+    <LanguageCGB>Clevel10</LanguageCGB>
+    <LanguageCB5>Clevel10</LanguageCB5>
+    <LanguageVET>Clevel10</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_PensionStartDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Pension Scheme Start Date</LanguageENG>
+    <LanguageCGB>退休金计划开始日期</LanguageCGB>
+    <LanguageCB5>退休金計劃開始日期</LanguageCB5>
+    <LanguageVET>退休金計劃開始日期</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_RosterGroup</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>RosterGroup</LanguageENG>
+    <LanguageCGB>RosterGroup</LanguageCGB>
+    <LanguageCB5>RosterGroup</LanguageCB5>
+    <LanguageVET>RosterGroup</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_Location</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Default Location</LanguageENG>
+    <LanguageCGB>地区</LanguageCGB>
+    <LanguageCB5>地區</LanguageCB5>
+    <LanguageVET>地區</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_RosterJobType</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Roster Job Type</LanguageENG>
+    <LanguageCGB>轮班工作类型</LanguageCGB>
+    <LanguageCB5>輪班工作類型</LanguageCB5>
+    <LanguageVET>排班工作類型</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustText01</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Text 01</LanguageENG>
+    <LanguageCGB>Customize Text 01</LanguageCGB>
+    <LanguageCB5>Customize Text 01</LanguageCB5>
+    <LanguageVET>Customize Text 01</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustText02</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Text 02</LanguageENG>
+    <LanguageCGB>Customize Text 02</LanguageCGB>
+    <LanguageCB5>Customize Text 02</LanguageCB5>
+    <LanguageVET>Customize Text 02</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustText03</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Text 03</LanguageENG>
+    <LanguageCGB>Customize Text 03</LanguageCGB>
+    <LanguageCB5>Customize Text 03</LanguageCB5>
+    <LanguageVET>Customize Text 03</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustText04</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Text 04</LanguageENG>
+    <LanguageCGB>Customize Text 04</LanguageCGB>
+    <LanguageCB5>Customize Text 04</LanguageCB5>
+    <LanguageVET>Customize Text 04</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustText05</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Text 05</LanguageENG>
+    <LanguageCGB>Customize Text 05</LanguageCGB>
+    <LanguageCB5>Customize Text 05</LanguageCB5>
+    <LanguageVET>Customize Text 05</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustNo01</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Number 01</LanguageENG>
+    <LanguageCGB>Customize Number 01</LanguageCGB>
+    <LanguageCB5>Customize Number 01</LanguageCB5>
+    <LanguageVET>Customize Number 01</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>num</ColumnDataType>
+  <NumFormat>##,###,###,##0.0000</NumFormat>
+<NumFrontDec>4</NumFrontDec>
+<NumBackDec>0</NumBackDec>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustNo02</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Number 02</LanguageENG>
+    <LanguageCGB>Customize Number 02</LanguageCGB>
+    <LanguageCB5>Customize Number 02</LanguageCB5>
+    <LanguageVET>Customize Number 02</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>num</ColumnDataType>
+  <NumFormat>##,###,###,##0.0000</NumFormat>
+<NumFrontDec>4</NumFrontDec>
+<NumBackDec>0</NumBackDec>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustNo03</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Number 03</LanguageENG>
+    <LanguageCGB>Customize Number 03</LanguageCGB>
+    <LanguageCB5>Customize Number 03</LanguageCB5>
+    <LanguageVET>Customize Number 03</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>num</ColumnDataType>
+  <NumFormat>##,###,###,##0.0000</NumFormat>
+<NumFrontDec>4</NumFrontDec>
+<NumBackDec>0</NumBackDec>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustNo04</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Number 04</LanguageENG>
+    <LanguageCGB>Customize Number 04</LanguageCGB>
+    <LanguageCB5>Customize Number 04</LanguageCB5>
+    <LanguageVET>Customize Number 04</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>num</ColumnDataType>
+  <NumFormat>##,###,###,##0.0000</NumFormat>
+<NumFrontDec>4</NumFrontDec>
+<NumBackDec>0</NumBackDec>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustNo05</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Number 05</LanguageENG>
+    <LanguageCGB>Customize Number 05</LanguageCGB>
+    <LanguageCB5>Customize Number 05</LanguageCB5>
+    <LanguageVET>Customize Number 05</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>num</ColumnDataType>
+  <NumFormat>##,###,###,##0.0000</NumFormat>
+<NumFrontDec>4</NumFrontDec>
+<NumBackDec>0</NumBackDec>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustDate01</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Date 01</LanguageENG>
+    <LanguageCGB>Customize Date 01</LanguageCGB>
+    <LanguageCB5>Customize Date 01</LanguageCB5>
+    <LanguageVET>Customize Date 01</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_CustDate02</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Date 02</LanguageENG>
+    <LanguageCGB>Customize Date 02</LanguageCGB>
+    <LanguageCB5>Customize Date 02</LanguageCB5>
+    <LanguageVET>Customize Date 02</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_CustDate03</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Date 03</LanguageENG>
+    <LanguageCGB>Customize Date 03</LanguageCGB>
+    <LanguageCB5>Customize Date 03</LanguageCB5>
+    <LanguageVET>Customize Date 03</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_CustDate04</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Date 04</LanguageENG>
+    <LanguageCGB>Customize Date 04</LanguageCGB>
+    <LanguageCB5>Customize Date 04</LanguageCB5>
+    <LanguageVET>Customize Date 04</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_CustDate05</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Date 05</LanguageENG>
+    <LanguageCGB>Customize Date 05</LanguageCGB>
+    <LanguageCB5>Customize Date 05</LanguageCB5>
+    <LanguageVET>Customize Date 05</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_CustComboText01</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Combo 01</LanguageENG>
+    <LanguageCGB>Customize Combo 01</LanguageCGB>
+    <LanguageCB5>Customize Combo 01</LanguageCB5>
+    <LanguageVET>Customize Combo 01</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustComboText02</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Combo 02</LanguageENG>
+    <LanguageCGB>Customize Combo 02</LanguageCGB>
+    <LanguageCB5>Customize Combo 02</LanguageCB5>
+    <LanguageVET>Customize Combo 02</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustComboText03</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Combo 03</LanguageENG>
+    <LanguageCGB>Customize Combo 03</LanguageCGB>
+    <LanguageCB5>Customize Combo 03</LanguageCB5>
+    <LanguageVET>Customize Combo 03</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustComboText04</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Combo 04</LanguageENG>
+    <LanguageCGB>Customize Combo 04</LanguageCGB>
+    <LanguageCB5>Customize Combo 04</LanguageCB5>
+    <LanguageVET>Customize Combo 04</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CustComboText05</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Customize Combo 05</LanguageENG>
+    <LanguageCGB>Customize Combo 05</LanguageCGB>
+    <LanguageCB5>Customize Combo 05</LanguageCB5>
+    <LanguageVET>Customize Combo 05</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_TaxEmployer</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Taxation Employer</LanguageENG>
+    <LanguageCGB>税务雇主</LanguageCGB>
+    <LanguageCB5>稅務僱主</LanguageCB5>
+    <LanguageVET>稅務僱主</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_ReportTo</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Report To</LanguageENG>
+    <LanguageCGB>上级主管</LanguageCGB>
+    <LanguageCB5>上級主管</LanguageCB5>
+    <LanguageVET>上級主管</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_DeputyCode</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Task Deputy</LanguageENG>
+    <LanguageCGB>职务代理人</LanguageCGB>
+    <LanguageCB5>職務代理人</LanguageCB5>
+    <LanguageVET>職務代理人</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_TermPlcyGroup</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Termination Policy Group</LanguageENG>
+    <LanguageCGB>离职政策组别</LanguageCGB>
+    <LanguageCB5>離職政策組別</LanguageCB5>
+    <LanguageVET>離職政策組別</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CreateUser</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Create user</LanguageENG>
+    <LanguageCGB>操作人</LanguageCGB>
+    <LanguageCB5>操作人</LanguageCB5>
+    <LanguageVET>操作人</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_CreateDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Create date</LanguageENG>
+    <LanguageCGB>操作日期</LanguageCGB>
+    <LanguageCB5>操作日期</LanguageCB5>
+    <LanguageVET>操作日期</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>
+<Field>
+  <DataName>Staff_LastUpdateUser</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Last update user</LanguageENG>
+    <LanguageCGB>最后更新用户</LanguageCGB>
+    <LanguageCB5>最後更新用戶</LanguageCB5>
+    <LanguageVET>最後更新用戶</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+</StringFormat>
+<Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>Staff_LastUpdateDate</DataName>
+  <ColumnName></ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Last update date</LanguageENG>
+    <LanguageCGB>最后更新日期</LanguageCGB>
+    <LanguageCB5>最後更新日期</LanguageCB5>
+    <LanguageVET>最後更新日期</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+  <DateInterval>Date</DateInterval>
+  <Visible>False</Visible>
+</Date>
+</Field>

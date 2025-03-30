@@ -1,0 +1,927 @@
+﻿    <Field>
+      <DataName>StaffTaxPlc_StaffID</DataName>
+      <ColumnName>StaffTaxPlc_StaffID</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>STAFF ID</LanguageENG>
+        <LanguageCGB>雇员编号</LanguageCGB>
+        <LanguageCB5>僱員編號</LanguageCB5>
+        <LanguageVET>員工編號</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_EffectiveDate</DataName>
+      <ColumnName>StaffTaxPlc_EffectiveDate</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Effective Date</LanguageENG>
+        <LanguageCGB>生效日期</LanguageCGB>
+        <LanguageCB5>生效日期</LanguageCB5>
+        <LanguageVET>生效日期</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>date</ColumnDataType>
+      <Date>
+        <DateInterval>Date</DateInterval>
+        <Visible>False</Visible>
+      </Date>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_ExpiryDate</DataName>
+      <ColumnName>StaffTaxPlc_ExpiryDate</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>EXPIRY DATE</LanguageENG>
+        <LanguageCGB>终止日期</LanguageCGB>
+        <LanguageCB5>終止日期</LanguageCB5>
+        <LanguageVET>終止日期</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>date</ColumnDataType>
+      <Date>
+        <DateInterval>Date</DateInterval>
+        <Visible>False</Visible>
+      </Date>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_MainTaxPolicy</DataName>
+      <ColumnName>StaffTaxPlc_MainTaxPolicy</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>MAIN TAXATION POLICY</LanguageENG>
+        <LanguageCGB>主要税务政策</LanguageCGB>
+        <LanguageCB5>主要稅務政策</LanguageCB5>
+        <LanguageVET>主要稅務政策</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_RentalReimburseEnabled</DataName>
+      <ColumnName>StaffTaxPlc_RentalReimburseEnabled</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>RENTAL REIMBURSEMENT ENABLED</LanguageENG>
+        <LanguageCGB>租金报销啓用</LanguageCGB>
+        <LanguageCB5>租金報銷啓用</LanguageCB5>
+        <LanguageVET>租金報銷啓用</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_SecondPolicy</DataName>
+      <ColumnName>StaffTaxPlc_SecondPolicy</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Secondary Policy</LanguageENG>
+        <LanguageCGB>Secondary Policy</LanguageCGB>
+        <LanguageCB5>Secondary Policy</LanguageCB5>
+        <LanguageVET>Secondary Policy</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_TaxLocation</DataName>
+      <ColumnName>StaffTaxPlc_TaxLocation</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>TAXATION LOCATION</LanguageENG>
+        <LanguageCGB>税务地点</LanguageCGB>
+        <LanguageCB5>稅務地點</LanguageCB5>
+        <LanguageVET>稅務地點</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_PTaxSettings</DataName>
+      <ColumnName>StaffTaxPlc_PTaxSettings</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>PRC Tax Settings Accordance</LanguageENG>
+        <LanguageCGB>PRC Tax Settings Accordance</LanguageCGB>
+        <LanguageCB5>PRC Tax Settings Accordance</LanguageCB5>
+        <LanguageVET>PRC Tax Settings Accordance</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_PTaxGroup</DataName>
+      <ColumnName>StaffTaxPlc_PTaxGroup</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>PRC TAXATION GROUP</LanguageENG>
+        <LanguageCGB>中国税务组别</LanguageCGB>
+        <LanguageCB5>中國稅務組別</LanguageCB5>
+        <LanguageVET>中國稅務組別</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_TaxAreaCode</DataName>
+      <ColumnName>StaffTaxPlc_TaxAreaCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>PRC Tax Area</LanguageENG>
+        <LanguageCGB>PRC Tax Area</LanguageCGB>
+        <LanguageCB5>PRC Tax Area</LanguageCB5>
+        <LanguageVET>PRC Tax Area</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_EmploymentStartDate</DataName>
+      <ColumnName>StaffTaxPlc_EmploymentStartDate</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>EMPLOYMENT START DATE</LanguageENG>
+        <LanguageCGB>入职日期</LanguageCGB>
+        <LanguageCB5>入職日期</LanguageCB5>
+        <LanguageVET>入職日期</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>date</ColumnDataType>
+      <Date>
+        <DateInterval>Date</DateInterval>
+        <Visible>False</Visible>
+      </Date>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_NonResident</DataName>
+      <ColumnName>StaffTaxPlc_NonResident</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>NON RESIDENT</LanguageENG>
+        <LanguageCGB>非居民</LanguageCGB>
+        <LanguageCB5>非居民</LanguageCB5>
+        <LanguageVET>非居民</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_MTaxRateTable</DataName>
+      <ColumnName>StaffTaxPlc_MTaxRateTable</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>MACAU TAX RATE TABLE</LanguageENG>
+        <LanguageCGB>澳门税率表</LanguageCGB>
+        <LanguageCB5>澳門稅率表</LanguageCB5>
+        <LanguageVET>澳門稅率表</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_MTaxGroup</DataName>
+      <ColumnName>StaffTaxPlc_MTaxGroup</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Macau Taxation Group</LanguageENG>
+        <LanguageCGB>Macau Taxation Group</LanguageCGB>
+        <LanguageCB5>Macau Taxation Group</LanguageCB5>
+        <LanguageVET>Macau Taxation Group</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_MTaxFSSNo</DataName>
+      <ColumnName>StaffTaxPlc_MTaxFSSNo</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Macau FSS Number</LanguageENG>
+        <LanguageCGB>Macau FSS Number</LanguageCGB>
+        <LanguageCB5>Macau FSS Number</LanguageCB5>
+        <LanguageVET>Macau FSS Number</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_MTaxNo</DataName>
+      <ColumnName>StaffTaxPlc_MTaxNo</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Macau Tax Number</LanguageENG>
+        <LanguageCGB>Macau Tax Number</LanguageCGB>
+        <LanguageCB5>Macau Tax Number</LanguageCB5>
+        <LanguageVET>Macau Tax Number</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_MStaffType</DataName>
+      <ColumnName>StaffTaxPlc_MStaffType</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Macau Staff Type</LanguageENG>
+        <LanguageCGB>Macau Staff Type</LanguageCGB>
+        <LanguageCB5>Macau Staff Type</LanguageCB5>
+        <LanguageVET>Macau Staff Type</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_Is36Policy</DataName>
+      <ColumnName>StaffTaxPlc_Is36Policy</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Is 36 Policy</LanguageENG>
+        <LanguageCGB>Is 36 Policy</LanguageCGB>
+        <LanguageCB5>Is 36 Policy</LanguageCB5>
+        <LanguageVET>Is 36 Policy</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_TaxFileNo</DataName>
+      <ColumnName>StaffTaxPlc_TaxFileNo</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>TAX FILE NUMBER</LanguageENG>
+        <LanguageCGB>税务档案号码</LanguageCGB>
+        <LanguageCB5>稅務檔案號碼</LanguageCB5>
+        <LanguageVET>稅務檔案號碼</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_GenIRTaxM</DataName>
+      <ColumnName>StaffTaxPlc_GenIRTaxM</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Gen. IRTaxM Form</LanguageENG>
+        <LanguageCGB>Gen. IRTaxM Form</LanguageCGB>
+        <LanguageCB5>Gen. IRTaxM Form</LanguageCB5>
+        <LanguageVET>Gen. IRTaxM Form</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YTaxRefNum</DataName>
+      <ColumnName>StaffTaxPlc_YTaxRefNum</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>TAX REFERENCE NO.</LanguageENG>
+        <LanguageCGB>税务参考编号</LanguageCGB>
+        <LanguageCB5>稅務參考編號</LanguageCB5>
+        <LanguageVET>稅務參考編號</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YIsResident</DataName>
+      <ColumnName>StaffTaxPlc_YIsResident</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>IS RESIDENT</LanguageENG>
+        <LanguageCGB>是居民</LanguageCGB>
+        <LanguageCB5>是居民</LanguageCB5>
+        <LanguageVET>是居民</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YIsDisabled</DataName>
+      <ColumnName>StaffTaxPlc_YIsDisabled</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>IS DISABLED</LanguageENG>
+        <LanguageCGB>是否有残疾？</LanguageCGB>
+        <LanguageCB5>是否有殘疾？</LanguageCB5>
+        <LanguageVET>是否有身心障礙？</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YIsMarried</DataName>
+      <ColumnName>StaffTaxPlc_YIsMarried</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>IS MARRIED</LanguageENG>
+        <LanguageCGB>是否婚配</LanguageCGB>
+        <LanguageCB5>是否婚配</LanguageCB5>
+        <LanguageVET>是否婚配</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YIsSpouseWorking</DataName>
+      <ColumnName>StaffTaxPlc_YIsSpouseWorking</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>IS SPOUSE WORKING</LanguageENG>
+        <LanguageCGB>配偶是否工作？</LanguageCGB>
+        <LanguageCB5>配偶是否工作？</LanguageCB5>
+        <LanguageVET>配偶是否工作？</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YIsSpouseDisabled</DataName>
+      <ColumnName>StaffTaxPlc_YIsSpouseDisabled</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>IS SPOUSE DISABLED</LanguageENG>
+        <LanguageCGB>配偶是否残疾？</LanguageCGB>
+        <LanguageCB5>配偶是否殘疾？</LanguageCB5>
+        <LanguageVET>配偶是否身心障礙？</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YIncludeBIK</DataName>
+      <ColumnName>StaffTaxPlc_YIncludeBIK</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>INCLUDE BIK</LanguageENG>
+        <LanguageCGB>纳入BIK</LanguageCGB>
+        <LanguageCB5>納入BIK</LanguageCB5>
+        <LanguageVET>納入BIK</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YIncludeVOLA</DataName>
+      <ColumnName>StaffTaxPlc_YIncludeVOLA</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>INCLUDE VOLA</LanguageENG>
+        <LanguageCGB>纳入VOLA</LanguageCGB>
+        <LanguageCB5>納入VOLA</LanguageCB5>
+        <LanguageVET>納入VOLA</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YChildUnder18</DataName>
+      <ColumnName>StaffTaxPlc_YChildUnder18</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Child no. (Under 18)</LanguageENG>
+        <LanguageCGB>Child no. (Under 18)</LanguageCGB>
+        <LanguageCB5>Child no. (Under 18)</LanguageCB5>
+        <LanguageVET>Child no. (Under 18)</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0.00</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YChildDiploma</DataName>
+      <ColumnName>StaffTaxPlc_YChildDiploma</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Child no. (Diploma)</LanguageENG>
+        <LanguageCGB>Child no. (Diploma)</LanguageCGB>
+        <LanguageCB5>Child no. (Diploma)</LanguageCB5>
+        <LanguageVET>Child no. (Diploma)</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0.00</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YChildDegree</DataName>
+      <ColumnName>StaffTaxPlc_YChildDegree</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Child no. (Degree)</LanguageENG>
+        <LanguageCGB>Child no. (Degree)</LanguageCGB>
+        <LanguageCB5>Child no. (Degree)</LanguageCB5>
+        <LanguageVET>Child no. (Degree)</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0.00</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YChildDisabled</DataName>
+      <ColumnName>StaffTaxPlc_YChildDisabled</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Child no. (Disabled)</LanguageENG>
+        <LanguageCGB>Child no. (Disabled)</LanguageCGB>
+        <LanguageCB5>Child no. (Disabled)</LanguageCB5>
+        <LanguageVET>Child no. (Disabled)</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0.00</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YChildEduDisabled</DataName>
+      <ColumnName>StaffTaxPlc_YChildEduDisabled</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Child no. (Educated Disabled)</LanguageENG>
+        <LanguageCGB>Child no. (Educated Disabled)</LanguageCGB>
+        <LanguageCB5>Child no. (Educated Disabled)</LanguageCB5>
+        <LanguageVET>Child no. (Educated Disabled)</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0.00</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YPrevNetIncome</DataName>
+      <ColumnName>StaffTaxPlc_YPrevNetIncome</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Previous Net Income</LanguageENG>
+        <LanguageCGB>Previous Net Income</LanguageCGB>
+        <LanguageCB5>Previous Net Income</LanguageCB5>
+        <LanguageVET>Previous Net Income</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>#,###,###,##0.00</NumFormat>
+      <NumFrontDec>10</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YTotalEPFCont</DataName>
+      <ColumnName>StaffTaxPlc_YTotalEPFCont</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Total EPF</LanguageENG>
+        <LanguageCGB>Total EPF</LanguageCGB>
+        <LanguageCB5>Total EPF</LanguageCB5>
+        <LanguageVET>Total EPF</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>#,###,###,##0.00</NumFormat>
+      <NumFrontDec>10</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YTotalAnnuity</DataName>
+      <ColumnName>StaffTaxPlc_YTotalAnnuity</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Total Annuity</LanguageENG>
+        <LanguageCGB>Total Annuity</LanguageCGB>
+        <LanguageCB5>Total Annuity</LanguageCB5>
+        <LanguageVET>Total Annuity</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>#,###,###,##0.00</NumFormat>
+      <NumFrontDec>10</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YAccumDeduction</DataName>
+      <ColumnName>StaffTaxPlc_YAccumDeduction</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Accumulated Deduction</LanguageENG>
+        <LanguageCGB>Accumulated Deduction</LanguageCGB>
+        <LanguageCB5>Accumulated Deduction</LanguageCB5>
+        <LanguageVET>Accumulated Deduction</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>#,###,###,##0.00</NumFormat>
+      <NumFrontDec>10</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YAccumSTD</DataName>
+      <ColumnName>StaffTaxPlc_YAccumSTD</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>ACCUMULATED STD</LanguageENG>
+        <LanguageCGB>累计STD</LanguageCGB>
+        <LanguageCB5>累計STD</LanguageCB5>
+        <LanguageVET>累計STD</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>#,###,###,##0.00</NumFormat>
+      <NumFrontDec>10</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_YAccumZakatFees</DataName>
+      <ColumnName>StaffTaxPlc_YAccumZakatFees</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Accumulated Zakat/Fees</LanguageENG>
+        <LanguageCGB>Accumulated Zakat/Fees</LanguageCGB>
+        <LanguageCB5>Accumulated Zakat/Fees</LanguageCB5>
+        <LanguageVET>Accumulated Zakat/Fees</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>#,###,###,##0.00</NumFormat>
+      <NumFrontDec>10</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_TwDepNum</DataName>
+      <ColumnName>StaffTaxPlc_TwDepNum</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Dependants Num</LanguageENG>
+        <LanguageCGB>家属人数</LanguageCGB>
+        <LanguageCB5>家屬人數</LanguageCB5>
+        <LanguageVET>家屬人數</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>0</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_TwIsForeigner</DataName>
+      <ColumnName>StaffTaxPlc_TwIsForeigner</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Is Foreigner?</LanguageENG>
+        <LanguageCGB>外籍雇员</LanguageCGB>
+        <LanguageCB5>外籍僱員</LanguageCB5>
+        <LanguageVET>外籍員工</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_TwDayinLocal</DataName>
+      <ColumnName>StaffTaxPlc_TwDayinLocal</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Commit the No. of Days in Local?</LanguageENG>
+        <LanguageCGB>已达183天</LanguageCGB>
+        <LanguageCB5>已達183天</LanguageCB5>
+        <LanguageVET>已達183天</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_TwTaxMethodMth</DataName>
+      <ColumnName>StaffTaxPlc_TwTaxMethodMth</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Tax Method of Monthly Income</LanguageENG>
+        <LanguageCGB>月收入计税方法</LanguageCGB>
+        <LanguageCB5>月收入計稅方法</LanguageCB5>
+        <LanguageVET>月所得扣繳稅款方式</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_TaxByER</DataName>
+      <ColumnName>StaffTaxPlc_TaxByER</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Tax by ER?</LanguageENG>
+        <LanguageCGB>雇主代缴税</LanguageCGB>
+        <LanguageCB5>僱主代繳稅</LanguageCB5>
+        <LanguageVET>僱主代扣稅款</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_ExemptTwScheme</DataName>
+      <ColumnName>StaffTaxPlc_ExemptTwScheme</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Exempt from TW Tax Scheme</LanguageENG>
+        <LanguageCGB>豁免台湾个税</LanguageCGB>
+        <LanguageCB5>豁免臺灣個稅</LanguageCB5>
+        <LanguageVET>豁免臺灣個稅</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_TwIsMthSelfRate</DataName>
+      <ColumnName>StaffTaxPlc_TwIsMthSelfRate</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>IS MONTH SELF RATE</LanguageENG>
+        <LanguageCGB>自订的每月收入税率</LanguageCGB>
+        <LanguageCB5>自訂的每月收入稅率</LanguageCB5>
+        <LanguageVET>自訂的每月收入稅率</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_TwMthSelfRate</DataName>
+      <ColumnName>StaffTaxPlc_TwMthSelfRate</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>MONTH SELF RATE</LanguageENG>
+        <LanguageCGB>自订每月收入税率</LanguageCGB>
+        <LanguageCB5>自訂每月收入稅率</LanguageCB5>
+        <LanguageVET>自訂每月收入稅率</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0.00</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_TwIsNMthSelfRate</DataName>
+      <ColumnName>StaffTaxPlc_TwIsNMthSelfRate</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>IS NON MONTH SELF RATE</LanguageENG>
+        <LanguageCGB>自订的非每月收入税率</LanguageCGB>
+        <LanguageCB5>自訂的非每月收入稅率</LanguageCB5>
+        <LanguageVET>自訂的非每月收入稅率</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_TwNMthSelfRate</DataName>
+      <ColumnName>StaffTaxPlc_TwNMthSelfRate</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>NON MONTH SELF RATE</LanguageENG>
+        <LanguageCGB>自订非每月收入税率</LanguageCGB>
+        <LanguageCB5>自訂非每月收入稅率</LanguageCB5>
+        <LanguageVET>自訂非每月收入稅率</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>num</ColumnDataType>
+      <NumFormat>##0.00</NumFormat>
+      <NumFrontDec>3</NumFrontDec>
+      <NumBackDec>2</NumBackDec>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_ExemptTwEWC</DataName>
+      <ColumnName>StaffTaxPlc_ExemptTwEWC</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Exempt from EWC</LanguageENG>
+        <LanguageCGB>豁免EWC款项</LanguageCGB>
+        <LanguageCB5>豁免EWC款項</LanguageCB5>
+        <LanguageVET>豁免EWC款項</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_HKIDCode</DataName>
+      <ColumnName>StaffTaxPlc_HKIDCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>HKID CODE</LanguageENG>
+        <LanguageCGB>香港身份证编号</LanguageCGB>
+        <LanguageCB5>香港身份證編號</LanguageCB5>
+        <LanguageVET>香港身分證編號</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_PassportCode</DataName>
+      <ColumnName>StaffTaxPlc_PassportCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>PASSPORT CODE</LanguageENG>
+        <LanguageCGB>护照编号</LanguageCGB>
+        <LanguageCB5>護照編號</LanguageCB5>
+        <LanguageVET>護照編號</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_ResTypeCode</DataName>
+      <ColumnName>StaffTaxPlc_ResTypeCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Residential Addr. Type</LanguageENG>
+        <LanguageCGB>Residential Addr. Type</LanguageCGB>
+        <LanguageCB5>Residential Addr. Type</LanguageCB5>
+        <LanguageVET>Residential Addr. Type</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_CorrTypeCode</DataName>
+      <ColumnName>StaffTaxPlc_CorrTypeCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Correspondence Addr. Type</LanguageENG>
+        <LanguageCGB>Correspondence Addr. Type</LanguageCGB>
+        <LanguageCB5>Correspondence Addr. Type</LanguageCB5>
+        <LanguageVET>Correspondence Addr. Type</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_CResTypeCode</DataName>
+      <ColumnName>StaffTaxPlc_CResTypeCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Chinese Residential Addr. Type</LanguageENG>
+        <LanguageCGB>Chinese Residential Addr. Type</LanguageCGB>
+        <LanguageCB5>Chinese Residential Addr. Type</LanguageCB5>
+        <LanguageVET>Chinese Residential Addr. Type</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_CCorrTypeCode</DataName>
+      <ColumnName>StaffTaxPlc_CCorrTypeCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Chinese Correspondence Addr. Type</LanguageENG>
+        <LanguageCGB>Chinese Correspondence Addr. Type</LanguageCGB>
+        <LanguageCB5>Chinese Correspondence Addr. Type</LanguageCB5>
+        <LanguageVET>Chinese Correspondence Addr. Type</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_ContactNumType</DataName>
+      <ColumnName>StaffTaxPlc_ContactNumType</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>CONTACT NUMBER TYPE</LanguageENG>
+        <LanguageCGB>联络号码类型</LanguageCGB>
+        <LanguageCB5>聯絡號碼類型</LanguageCB5>
+        <LanguageVET>聯絡號碼類型</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_SpouseCode1</DataName>
+      <ColumnName>StaffTaxPlc_SpouseCode1</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Spouse Code 1</LanguageENG>
+        <LanguageCGB>Spouse Code 1</LanguageCGB>
+        <LanguageCB5>Spouse Code 1</LanguageCB5>
+        <LanguageVET>Spouse Code 1</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_SpouseCode2</DataName>
+      <ColumnName>StaffTaxPlc_SpouseCode2</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Spouse Code 2</LanguageENG>
+        <LanguageCGB>Spouse Code 2</LanguageCGB>
+        <LanguageCB5>Spouse Code 2</LanguageCB5>
+        <LanguageVET>Spouse Code 2</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_SpouseCode3</DataName>
+      <ColumnName>StaffTaxPlc_SpouseCode3</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Spouse Code 3</LanguageENG>
+        <LanguageCGB>Spouse Code 3</LanguageCGB>
+        <LanguageCB5>Spouse Code 3</LanguageCB5>
+        <LanguageVET>Spouse Code 3</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_SpouseCode4</DataName>
+      <ColumnName>StaffTaxPlc_SpouseCode4</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Spouse Code 4</LanguageENG>
+        <LanguageCGB>Spouse Code 4</LanguageCGB>
+        <LanguageCB5>Spouse Code 4</LanguageCB5>
+        <LanguageVET>Spouse Code 4</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_HKCode</DataName>
+      <ColumnName>StaffTaxPlc_HKCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Hong Kong Code</LanguageENG>
+        <LanguageCGB>Hong Kong Code</LanguageCGB>
+        <LanguageCB5>Hong Kong Code</LanguageCB5>
+        <LanguageVET>Hong Kong Code</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_KLNCode</DataName>
+      <ColumnName>StaffTaxPlc_KLNCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Kowloon Code</LanguageENG>
+        <LanguageCGB>Kowloon Code</LanguageCGB>
+        <LanguageCB5>Kowloon Code</LanguageCB5>
+        <LanguageVET>Kowloon Code</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_NTCode</DataName>
+      <ColumnName>StaffTaxPlc_NTCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>NT Code</LanguageENG>
+        <LanguageCGB>NT Code</LanguageCGB>
+        <LanguageCB5>NT Code</LanguageCB5>
+        <LanguageVET>NT Code</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
+    <Field>
+      <DataName>StaffTaxPlc_FNCode</DataName>
+      <ColumnName>StaffTaxPlc_FNCode</ColumnName>
+      <ColumnCaption>
+        <LanguageENG>Foreign Code</LanguageENG>
+        <LanguageCGB>Foreign Code</LanguageCGB>
+        <LanguageCB5>Foreign Code</LanguageCB5>
+        <LanguageVET>Foreign Code</LanguageVET>
+      </ColumnCaption>
+      <ColumnDataType>string</ColumnDataType>
+      <StringFormat>
+      </StringFormat>
+      <Visible>False</Visible>
+    </Field>
