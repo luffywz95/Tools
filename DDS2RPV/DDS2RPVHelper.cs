@@ -6,8 +6,6 @@ using System.Reflection.Emit;
 using System.Text;
 using System.Text.RegularExpressions;
 using SpreadsheetGear;
-using static DDS2RPV.DDS2RPVHelper;
-using static DDS2RPV.MainWindow;
 
 namespace DDS2RPV
 {
@@ -242,7 +240,7 @@ namespace DDS2RPV
             }
         }
 
-        public bool ExportRpvFiles(IEnumerable<TableInfo> tableInfos, string destFileDirectory)
+        public bool ExportRpvFiles(IEnumerable<TableInfo> tableInfos, string destFileDirectory = @"..\@exports")
         {
             this.CacheDataNamePatternTranslattions.Clear();
 

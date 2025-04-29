@@ -1,0 +1,317 @@
+﻿<Field>
+  <DataName>AcaQuliItem_StaffID</DataName>
+  <ColumnName>AcaQuliItem_StaffID</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>STAFF ID</LanguageENG>
+    <LanguageCGB>雇员编号</LanguageCGB>
+    <LanguageCB5>僱員編號</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_SeqNum</DataName>
+  <ColumnName>AcaQuliItem_SeqNum</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Sequence Number</LanguageENG>
+    <LanguageCGB>Sequence Number</LanguageCGB>
+    <LanguageCB5>Sequence Number</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>num</ColumnDataType>
+  <NumFormat>#0</NumFormat>
+  <NumFrontDec>2</NumFrontDec>
+  <NumBackDec>0</NumBackDec>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_AcademicLvl</DataName>
+  <ColumnName>AcaQuliItem_AcademicLvl</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>ACADEMIC LEVEL</LanguageENG>
+    <LanguageCGB>教育程度</LanguageCGB>
+    <LanguageCB5>教育程度</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_Institution</DataName>
+  <ColumnName>AcaQuliItem_Institution</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Institution</LanguageENG>
+    <LanguageCGB>Institution</LanguageCGB>
+    <LanguageCB5>Institution</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_Majorin</DataName>
+  <ColumnName>AcaQuliItem_Majorin</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>MAJOR IN DISCIPLINE</LanguageENG>
+    <LanguageCGB>专业/ 学科</LanguageCGB>
+    <LanguageCB5>專業/ 學科</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_FullTime</DataName>
+  <ColumnName>AcaQuliItem_FullTime</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>FullTime</LanguageENG>
+    <LanguageCGB>FullTime</LanguageCGB>
+    <LanguageCB5>FullTime</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_Attainment</DataName>
+  <ColumnName>AcaQuliItem_Attainment</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>ATTAINMENT</LanguageENG>
+    <LanguageCGB>获取资格</LanguageCGB>
+    <LanguageCB5>獲取資格</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_Degree</DataName>
+  <ColumnName>AcaQuliItem_Degree</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>DEGREE</LanguageENG>
+    <LanguageCGB>学位</LanguageCGB>
+    <LanguageCB5>學位</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_GradePoint</DataName>
+  <ColumnName>AcaQuliItem_GradePoint</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>GRADE POINT</LanguageENG>
+    <LanguageCGB>学分</LanguageCGB>
+    <LanguageCB5>學分</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_CertDate</DataName>
+  <ColumnName>AcaQuliItem_CertDate</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Cert. Date</LanguageENG>
+    <LanguageCGB>Cert. Date</LanguageCGB>
+    <LanguageCB5>Cert. Date</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+    <DateInterval>Date</DateInterval>
+    <Visible>False</Visible>
+  </Date>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_ImagePath</DataName>
+  <ColumnName>AcaQuliItem_ImagePath</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Image Path</LanguageENG>
+    <LanguageCGB>Image Path</LanguageCGB>
+    <LanguageCB5>Image Path</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_MajorinCode</DataName>
+  <ColumnName>AcaQuliItem_MajorinCode</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Major in (Code)</LanguageENG>
+    <LanguageCGB>Major in (Code)</LanguageCGB>
+    <LanguageCB5>Major in (Code)</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_SchoolCode</DataName>
+  <ColumnName>AcaQuliItem_SchoolCode</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>SCHOOL</LanguageENG>
+    <LanguageCGB>学校</LanguageCGB>
+    <LanguageCB5>學校</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_AcademicStatus</DataName>
+  <ColumnName>AcaQuliItem_AcademicStatus</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Academic Status</LanguageENG>
+    <LanguageCGB>Academic Status</LanguageCGB>
+    <LanguageCB5>Academic Status</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_IsFreshGrad</DataName>
+  <ColumnName>AcaQuliItem_IsFreshGrad</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Is Fresh Grad</LanguageENG>
+    <LanguageCGB>Is Fresh Grad</LanguageCGB>
+    <LanguageCB5>Is Fresh Grad</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_Remark</DataName>
+  <ColumnName>AcaQuliItem_Remark</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>REMARK</LanguageENG>
+    <LanguageCGB>备注</LanguageCGB>
+    <LanguageCB5>備註</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_IsHighestAcademic</DataName>
+  <ColumnName>AcaQuliItem_IsHighestAcademic</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Highest Academic</LanguageENG>
+    <LanguageCGB>Highest Academic</LanguageCGB>
+    <LanguageCB5>Highest Academic</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_AcademicYear</DataName>
+  <ColumnName>AcaQuliItem_AcademicYear</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>ACADEMIC YEAR</LanguageENG>
+    <LanguageCGB>学年制</LanguageCGB>
+    <LanguageCB5>學年制</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>num</ColumnDataType>
+  <NumFormat>#0</NumFormat>
+  <NumFrontDec>2</NumFrontDec>
+  <NumBackDec>0</NumBackDec>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_AcademicType</DataName>
+  <ColumnName>AcaQuliItem_AcademicType</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>ACADEMIC TYPE</LanguageENG>
+    <LanguageCGB>学历形式</LanguageCGB>
+    <LanguageCB5>學歷形式</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_CertReady</DataName>
+  <ColumnName>AcaQuliItem_CertReady</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Certificate Ready</LanguageENG>
+    <LanguageCGB>Certificate Ready</LanguageCGB>
+    <LanguageCB5>Certificate Ready</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_CreateUser</DataName>
+  <ColumnName>AcaQuliItem_CreateUser</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>CREATE USER</LanguageENG>
+    <LanguageCGB>操作人</LanguageCGB>
+    <LanguageCB5>操作人</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_CreateDate</DataName>
+  <ColumnName>AcaQuliItem_CreateDate</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>CREATE DATE</LanguageENG>
+    <LanguageCGB>操作日期</LanguageCGB>
+    <LanguageCB5>操作日期</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+    <DateInterval>Date</DateInterval>
+    <Visible>False</Visible>
+  </Date>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_LastUpdateUser</DataName>
+  <ColumnName>AcaQuliItem_LastUpdateUser</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>LAST UPDATE USER</LanguageENG>
+    <LanguageCGB>最后更新用户</LanguageCGB>
+    <LanguageCB5>最後更新用戶</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliItem_LastUpdateDate</DataName>
+  <ColumnName>AcaQuliItem_LastUpdateDate</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>LAST UPDATE DATE</LanguageENG>
+    <LanguageCGB>最后更新日期</LanguageCGB>
+    <LanguageCB5>最後更新日期</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+    <DateInterval>Date</DateInterval>
+    <Visible>False</Visible>
+  </Date>
+</Field>

@@ -1,0 +1,86 @@
+﻿<Field>
+  <DataName>BudgetAttRateHdr_BudPlanID</DataName>
+  <ColumnName>BudgetAttRateHdr_BudPlanID</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>BUDGET PLAN ID</LanguageENG>
+    <LanguageCGB>预算规划编号</LanguageCGB>
+    <LanguageCB5>預算規劃編號</LanguageCB5>
+    <LanguageVET>預算規劃編號</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>BudgetAttRateHdr_BudTypeCode</DataName>
+  <ColumnName>BudgetAttRateHdr_BudTypeCode</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Bud Type Code</LanguageENG>
+    <LanguageCGB>Bud Type Code</LanguageCGB>
+    <LanguageCB5>Bud Type Code</LanguageCB5>
+    <LanguageVET>Bud Type Code</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>BudgetAttRateHdr_CreateUser</DataName>
+  <ColumnName>BudgetAttRateHdr_CreateUser</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>CREATE USER</LanguageENG>
+    <LanguageCGB>操作人</LanguageCGB>
+    <LanguageCB5>操作人</LanguageCB5>
+    <LanguageVET>操作人</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>BudgetAttRateHdr_CreateDate</DataName>
+  <ColumnName>BudgetAttRateHdr_CreateDate</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>CREATE DATE</LanguageENG>
+    <LanguageCGB>操作日期</LanguageCGB>
+    <LanguageCB5>操作日期</LanguageCB5>
+    <LanguageVET>操作日期</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+    <DateInterval>Date</DateInterval>
+    <Visible>False</Visible>
+  </Date>
+</Field>
+<Field>
+  <DataName>BudgetAttRateHdr_LastUpdateUser</DataName>
+  <ColumnName>BudgetAttRateHdr_LastUpdateUser</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>LAST UPDATE USER</LanguageENG>
+    <LanguageCGB>最后更新用户</LanguageCGB>
+    <LanguageCB5>最後更新用戶</LanguageCB5>
+    <LanguageVET>最後更新用戶</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>BudgetAttRateHdr_LastUpdateDate</DataName>
+  <ColumnName>BudgetAttRateHdr_LastUpdateDate</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>LAST UPDATE DATE</LanguageENG>
+    <LanguageCGB>最后更新日期</LanguageCGB>
+    <LanguageCB5>最後更新日期</LanguageCB5>
+    <LanguageVET>最後更新日期</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+    <DateInterval>Date</DateInterval>
+    <Visible>False</Visible>
+  </Date>
+</Field>

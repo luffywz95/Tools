@@ -1,0 +1,100 @@
+﻿<Field>
+  <DataName>BudgetBonusType_BudBonusTypeCode</DataName>
+  <ColumnName>BudgetBonusType_BudBonusTypeCode</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Budget Bonus Type Code</LanguageENG>
+    <LanguageCGB>Budget Bonus Type Code</LanguageCGB>
+    <LanguageCB5>Budget Bonus Type Code</LanguageCB5>
+    <LanguageVET>Budget Bonus Type Code</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>BudgetBonusType_Desc</DataName>
+  <ColumnName>BudgetBonusType_Desc</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>DESC</LanguageENG>
+    <LanguageCGB>说明</LanguageCGB>
+    <LanguageCB5>說明</LanguageCB5>
+    <LanguageVET>說明</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>BudgetBonusType_OtherDesc</DataName>
+  <ColumnName>BudgetBonusType_OtherDesc</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>OTHERDESC</LanguageENG>
+    <LanguageCGB>其他说明</LanguageCGB>
+    <LanguageCB5>其他說明</LanguageCB5>
+    <LanguageVET>其他說明</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>BudgetBonusType_CreateUser</DataName>
+  <ColumnName>BudgetBonusType_CreateUser</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>CREATE USER</LanguageENG>
+    <LanguageCGB>操作人</LanguageCGB>
+    <LanguageCB5>操作人</LanguageCB5>
+    <LanguageVET>操作人</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>BudgetBonusType_CreateDate</DataName>
+  <ColumnName>BudgetBonusType_CreateDate</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>CREATE DATE</LanguageENG>
+    <LanguageCGB>操作日期</LanguageCGB>
+    <LanguageCB5>操作日期</LanguageCB5>
+    <LanguageVET>操作日期</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+    <DateInterval>Date</DateInterval>
+    <Visible>False</Visible>
+  </Date>
+</Field>
+<Field>
+  <DataName>BudgetBonusType_LastUpdateUser</DataName>
+  <ColumnName>BudgetBonusType_LastUpdateUser</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>LAST UPDATE USER</LanguageENG>
+    <LanguageCGB>最后更新用户</LanguageCGB>
+    <LanguageCB5>最後更新用戶</LanguageCB5>
+    <LanguageVET>最後更新用戶</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>BudgetBonusType_LastUpdateDate</DataName>
+  <ColumnName>BudgetBonusType_LastUpdateDate</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>LAST UPDATE DATE</LanguageENG>
+    <LanguageCGB>最后更新日期</LanguageCGB>
+    <LanguageCB5>最後更新日期</LanguageCB5>
+    <LanguageVET>最後更新日期</LanguageVET>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+    <DateInterval>Date</DateInterval>
+    <Visible>False</Visible>
+  </Date>
+</Field>

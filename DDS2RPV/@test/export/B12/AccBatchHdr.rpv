@@ -1,0 +1,120 @@
+﻿<Field>
+  <DataName>AccBatchHdr_VouBatchCode</DataName>
+  <ColumnName>AccBatchHdr_VouBatchCode</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>VOUCHER BATCH CODE</LanguageENG>
+    <LanguageCGB>Voucher Batch Code</LanguageCGB>
+    <LanguageCB5>Voucher Batch Code</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AccBatchHdr_Desc</DataName>
+  <ColumnName>AccBatchHdr_Desc</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>DESCRIPTION</LanguageENG>
+    <LanguageCGB>说明</LanguageCGB>
+    <LanguageCB5>說明</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AccBatchHdr_Posted</DataName>
+  <ColumnName>AccBatchHdr_Posted</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>POSTED</LanguageENG>
+    <LanguageCGB>已过帐</LanguageCGB>
+    <LanguageCB5>已過帳</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AccBatchHdr_PostUser</DataName>
+  <ColumnName>AccBatchHdr_PostUser</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Posting User</LanguageENG>
+    <LanguageCGB>Posting User</LanguageCGB>
+    <LanguageCB5>Posting User</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AccBatchHdr_PostDate</DataName>
+  <ColumnName>AccBatchHdr_PostDate</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Posting Date</LanguageENG>
+    <LanguageCGB>Posting Date</LanguageCGB>
+    <LanguageCB5>Posting Date</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+    <DateInterval>Date</DateInterval>
+    <Visible>False</Visible>
+  </Date>
+</Field>
+<Field>
+  <DataName>AccBatchHdr_CreateUser</DataName>
+  <ColumnName>AccBatchHdr_CreateUser</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>CREATE USER</LanguageENG>
+    <LanguageCGB>操作人</LanguageCGB>
+    <LanguageCB5>操作人</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AccBatchHdr_CreateDate</DataName>
+  <ColumnName>AccBatchHdr_CreateDate</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>CREATE DATE</LanguageENG>
+    <LanguageCGB>操作日期</LanguageCGB>
+    <LanguageCB5>操作日期</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+    <DateInterval>Date</DateInterval>
+    <Visible>False</Visible>
+  </Date>
+</Field>
+<Field>
+  <DataName>AccBatchHdr_LastUpdateUser</DataName>
+  <ColumnName>AccBatchHdr_LastUpdateUser</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>LAST UPDATE USER</LanguageENG>
+    <LanguageCGB>最后更新用户</LanguageCGB>
+    <LanguageCB5>最後更新用戶</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AccBatchHdr_LastUpdateDate</DataName>
+  <ColumnName>AccBatchHdr_LastUpdateDate</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>LAST UPDATE DATE</LanguageENG>
+    <LanguageCGB>最后更新日期</LanguageCGB>
+    <LanguageCB5>最後更新日期</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>date</ColumnDataType>
+  <Date>
+    <DateInterval>Date</DateInterval>
+    <Visible>False</Visible>
+  </Date>
+</Field>

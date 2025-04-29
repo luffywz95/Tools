@@ -41,6 +41,8 @@ namespace DDS2RPV
             dataGrid_FileList.ItemsSource = this.ObservableTableFileInfos;
 
             this.helper = new DDS2RPVHelper(ConfigurationManager.AppSettings["TranslationResourceFile"] ?? string.Empty);
+
+            panel_ProjectCodes.Children.OfType<RadioButton>().ElementAt(0).IsChecked = true;
         }
 
         #region Event Functions
@@ -98,7 +100,9 @@ namespace DDS2RPV
                     return;
                 }
 
-                if (this.helper.ExportRpvFiles(selectedItems, @"..\@exports"))
+                var destFileDirectory = tbox_RPVOutputPath.Text;
+
+                if (this.helper.ExportRpvFiles(selectedItems, destFileDirectory))
                 {
                     MessageBox.Show("Successfully generated RPV files.", "Information", MessageBoxButton.OK, MessageBoxImage.Information);
                 }

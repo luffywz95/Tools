@@ -1,0 +1,26 @@
+﻿<Field>
+  <DataName>AcaQuliHeader_StaffID</DataName>
+  <ColumnName>AcaQuliHeader_StaffID</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>STAFF ID</LanguageENG>
+    <LanguageCGB>雇员编号</LanguageCGB>
+    <LanguageCB5>僱員編號</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
+<Field>
+  <DataName>AcaQuliHeader_HighestLevel</DataName>
+  <ColumnName>AcaQuliHeader_HighestLevel</ColumnName>
+  <ColumnCaption>
+    <LanguageENG>Highest Level</LanguageENG>
+    <LanguageCGB>Highest Level</LanguageCGB>
+    <LanguageCB5>Highest Level</LanguageCB5>
+  </ColumnCaption>
+  <ColumnDataType>string</ColumnDataType>
+  <StringFormat>
+  </StringFormat>
+  <Visible>False</Visible>
+</Field>
