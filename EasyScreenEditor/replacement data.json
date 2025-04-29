@@ -1,0 +1,38 @@
+{
+	"Staff_FirstName": { 
+		"TextLength": 50
+	},
+	"Staff_FullName": { 
+		"TextLength": 140
+	},
+	"Staff_IDFullName": { 
+		"TextLength": 140
+	},
+	"Staff_EUserName": { 
+		"TextLength": 140
+	},
+	"StaffHistPer_FirstName": { 
+		"TextLength": 50
+	},
+	"StaffHistPer_FullName": { 
+		"TextLength": 140
+	},
+	"StaffHistPer_IDFullName": { 
+		"TextLength": 140
+	},
+	"StaffHistPer_EUserName": { 
+		"TextLength": 140
+	},
+	"StaffTmpPer_FirstName": { 
+		"TextLength": 50
+	},
+	"StaffTmpPer_FullName": { 
+		"TextLength": 140
+	},
+	"StaffTmpPer_IDFullName": { 
+		"TextLength": 140
+	},
+	"StaffTmpPer_EUserName": { 
+		"TextLength": 140
+	}
+}
